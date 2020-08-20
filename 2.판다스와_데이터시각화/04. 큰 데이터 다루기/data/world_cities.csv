@@ -1,0 +1,251 @@
+City / Urban area,Country,Population,Land area (in sqKm)
+Buenos Aires,Argentina,11200000,2266
+Melbourne,Australia,3162000,2080
+Sydney,Australia,3502000,1687
+Brisbane,Australia,1508000,1603
+Perth,Australia,1177000,964
+Adelaide,Australia,1002000,729
+Gold Coast,Australia,422000,383
+Vienna,Austria,1550000,453
+Baku/Sumqayit,Azerbaijan,2100000,544
+Brussels,Belgium,1570000,712
+Antwerp,Belgium,915000,596
+Sao Paulo,Brazil,17700000,1968
+Rio de Janeiro,Brazil,10800000,1580
+Belo Horizonte,Brazil,4000000,868
+Curitiba,Brazil,2500000,648
+Brasilia,Brazil,1625000,583
+Fortaleza,Brazil,2650000,583
+Porto Alegre,Brazil,2800000,583
+Campinas,Brazil,1750000,492
+Goiania,Brazil,1475000,479
+Recife,Brazil,3025000,376
+Phnom Penh,Cambodia,1500000,518
+Montreal.,Canada,3216000,1740
+Toronto,Canada,4367000,1655
+Vancouver,Canada,1830000,1120
+Edmonton,Canada,782000,850
+Calgary,Canada,879000,702
+Quebec,Canada,635000,669
+Ottawa/Hull,Canada,828000,490
+Winnipeg,Canada,627000,446
+St. Catharines,Canada,300000,389
+Santiago,Chile,5425000,648
+Beijing,China,8614000,748
+Shanghai,China,10000000,746
+Shenzhen,China,8000000,466
+Shenyang,China,4200000,453
+Tianjin,China,4750000,453
+Dalian,China,2750000,389
+Bogota,Colombia,7000000,518
+Kinshasa,Congo,5000000,469
+Lumumbashi,Congo,1200000,427
+Copenhagen,Denmark,1525000,816
+Quito,Ecuador,1500000,479
+Cairo,Egypt,12200000,1295
+Helsinki,Finland,1000000,479
+Paris,France,9645000,2723
+Marseille,France,1350000,1204
+Bordeaux,France,754000,1057
+Lyon,France,1349000,954
+Toulouse,France,761000,808
+Nice,France,889000,721
+Toulon,France,520000,713
+Avignon,France,254000,508
+Valenciennes,France,357000,507
+Douai/Lens,France,519000,489
+Nantes,France,545000,476
+Lille,France,1050000,474
+Pau,France,181000,450
+Tours,France,298000,421
+Bethune,France,259000,390
+Essen/Düsseldorf,Germany,7350000,2642
+Berlin,Germany,3675000,984
+Frankfurt,Germany,2260000,984
+Hamburg,Germany,1925000,829
+Cologne/Bonn,Germany,1960000,816
+Munich,Germany,1600000,518
+Stuttgart,Germany,1250000,414
+Aachen,Germany,585000,401
+Accra,Ghana,1500000,453
+Athens,Greece,3685000,684
+Budapest,Hungary,1800000,702
+Delhi,India,14300000,1295
+Hyderabad,India,5300000,583
+Bangalore,India,5400000,534
+Kolkata,India,12700000,531
+Mumbai,India,14350000,484
+Chennai,India,5950000,414
+Jakarta,Indonesia,14250000,1360
+Tehran,Iran,7250000,686
+Baghdad,Iraq,5500000,596
+Dublin,Ireland,1075000,365
+Tel Aviv,Israel,2300000,453
+Milan,Italy,4250000,1554
+Rome,Italy,2500000,842
+Naples,Italy,2400000,583
+Turin,Italy,1350000,500
+Tokyo/Yokohama,Japan,33200000,6993
+Nagoya,Japan,9000000,2875
+Osaka/Kobe/Kyoto,Japan,16425000,2564
+Fukuoka,Japan,2150000,544
+Sapporo,Japan,2075000,414
+Kuwait,Kuwait,1600000,544
+Beirut,Lebanon,1800000,648
+Kuala Lumpur,Malaysia,4400000,1606
+Mexico City,Mexico,17400000,2072
+Guadalajara,Mexico,3500000,596
+Monterey,Mexico,3200000,479
+Rotterdam,Netherlands,1325000,531
+Auckland,New Zealand,1050000,531
+Lagos,Nigeria,13400000,738
+Lahore,Pakistan,5100000,622
+Karachi,Pakistan,9800000,518
+Lima,Peru,7000000,596
+Manila,Philippines,14750000,1399
+Katowice,Poland,2200000,544
+Warsaw,Poland,2000000,466
+Lisbon,Portugal,2250000,881
+Porto,Portugal,1035000,389
+San Juan,Puerto Rico,2217000,2309
+Aguadilla,Puerto Rico,299000,620
+Moscow,Russia,10500000,2150
+St Petersburg,Russia,5300000,622
+Nizhni Novgorod,Russia,1500000,505
+Arabia,Saudi,1525000,673
+Riyadh,Saudi Arabia,4000000,1101
+Jeddah,Saudi Arabia,2750000,777
+Singapore,Singapore,4000000,479
+Johannesburg/East Rand,South Africa,6000000,2396
+Durban,South Africa,2900000,829
+Cape Town,South Africa,2700000,686
+Pretoria,South Africa,1850000,673
+Vereeniging,South Africa,600000,479
+Port Elizabeth,South Africa,900000,427
+Seoul/Incheon,South Korea,17500000,1049
+Madrid,Spain,4900000,945
+Barcelona,Spain,3900000,803
+Khartoum,Sudan,4000000,583
+Stockholm,Sweden,1400000,518
+Taichung,Taiwan,2000000,510
+Taipei,Taiwan,5700000,376
+Bangkok,Thailand,6500000,1010
+Istanbul,Turkey,9000000,1166
+Ankara,Turkey,3100000,583
+Abu Dhabi,UAE,550000,777
+Dubai,UAE,1900000,712
+London,UK,8278000,1623
+Birmingham,UK,2284000,600
+Manchester,UK,2245000,558
+Leeds/Bradford,UK,1499000,370
+Glasgow,UK,1200000,368
+Donetsk,Ukraine,1400000,451
+New York Metro,USA,17800000,8683
+Chicago,USA,8308000,5498
+Atlanta,USA,3500000,5083
+Philadelphia,USA,5149000,4661
+Boston,USA,4032000,4497
+Los Angeles,USA,11789000,4320
+Dallas/Fort Worth,USA,4146000,3644
+Houston,USA,3823000,3355
+Detroit,USA,3903000,3267
+Washington,USA,3934000,2996
+Miami,USA,4919000,2891
+Seattle,USA,2712000,2470
+Minneapolis/St. Paul,USA,2389000,2316
+Pittsburgh,USA,1753000,2208
+St. Louis,USA,2078000,2147
+Tampa//St. Petersburg,USA,2062000,2078
+Phoenix/Mesa,USA,2907000,2069
+San Diego,USA,2674000,2026
+Baltimore,USA,2076000,1768
+Cincinnati,USA,1503000,1740
+Cleveland,USA,1787000,1676
+Kansas City,USA,1362000,1514
+Indianapolis,USA,1219000,1432
+San Francisco//Oakland,USA,3229000,1365
+Virginia Beach,USA,1394000,1364
+Providence,USA,1175000,1304
+Denver,USA,1985000,1292
+Milwaukee,USA,1309000,1261
+Portland,USA,1583000,1228
+Hartford,USA,852000,1216
+Bridgeport//Stamford,USA,889000,1205
+Orlando,USA,1157000,1174
+Riverside/San Bernardino,USA,1507000,1136
+Richmond,USA,819000,1131
+Charlotte,USA,759000,1126
+Nashville,USA,750000,1116
+Jacksonville,USA,882000,1063
+San Antonio,USA,1328000,1056
+Memphis,USA,972000,1036
+Columbus,USA,1133000,1030
+Birmingham,USA,664000,1016
+Louisville,USA,864000,1013
+Sacramento,USA,1393000,956
+Buffalo,USA,977000,950
+Knoxville,USA,420000,879
+Dayton,USA,703000,838
+Oklahoma City,USA,747000,835
+Raleigh,USA,542000,828
+Austin,USA,902000,824
+McAllen,USA,523000,813
+Springfield,USA,574000,800
+Akron,USA,570000,797
+Rochester,USA,694000,764
+Tucson,USA,720000,755
+Chattanooga,USA,344000,751
+Allentown/Bethlehem,USA,576000,750
+Barnstable Town,USA,244000,741
+Las Vegas,USA,1314000,741
+New Haven,USA,531000,739
+Albany,USA,559000,736
+Baton Rouge,USA,479000,727
+Sarasota//Bradenton,USA,559000,700
+Columbia,USA,421000,697
+Poughkeepsie,USA,352000,686
+Tulsa,USA,558000,677
+San Jose,USA,1538000,674
+Grand Rapids,USA,539000,667
+Winston/Salem,USA,299000,651
+Worcester,USA,430000,648
+Augusta,USA,336000,600
+Flint,USA,365000,599
+Charleston,USA,423000,598
+Salt Lake City,USA,888000,598
+Youngstown,USA,417000,591
+Greenville,USA,302000,587
+Omaha,USA,627000,586
+Albuquerque,USA,598000,580
+Palm Bay,USA,393000,569
+El Paso,USA,675000,568
+Pensacola,USA,324000,568
+Hickory,USA,188000,546
+Mobile,USA,318000,546
+Harrisburg,USA,363000,540
+Asheville,USA,222000,536
+Little Rock,USA,360000,532
+Toledo,USA,503000,524
+Lancaster,USA,324000,517
+New Orleans,USA,1009000,512
+Colorado Springs,USA,466000,511
+Cape Coral,USA,330000,497
+Ogden,USA,418000,466
+Syracuse,USA,402000,465
+Wichita,USA,422000,465
+Concord,USA,553000,457
+Port St Lucie,USA,271000,438
+Fayetteville,USA,276000,433
+Jackson,USA,293000,417
+Scranton,USA,385000,411
+Huntsville,USA,213000,407
+Durham,USA,288000,406
+South Bend,USA,276000,404
+Shreveport,USA,275000,401
+Honolulu,USA,718000,399
+Bonita Springs / Naples,USA,221000,389
+Canton,USA,267000,372
+Spokane,USA,335000,371
+Tashkent,Uzbekistan,2200000,531
+Ho Chi Minh City,Vietnam,4900000,518
+Harare,Zimbabwe,1750000,712

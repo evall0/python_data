@@ -1,0 +1,2001 @@
+id,year,course name,status,room assignment
+2777729,1,science,allowed,Auditorium
+2777730,2,science,allowed,Auditorium
+2777765,1,arts,allowed,Auditorium
+2777766,2,arts,allowed,Auditorium
+2777785,1,mba,allowed,Small room
+2777786,2,mba,allowed,Small room
+2777793,1,mba 2nd shift,not allowed,not assigned
+2777794,2,mba 2nd shift,not allowed,not assigned
+2777795,1,mca 2nd shift,not allowed,not assigned
+2777796,2,mca 2nd shift,not allowed,not assigned
+2777797,3,mca 2nd shift,not allowed,not assigned
+2777798,1,bjmc,not allowed,not assigned
+2777799,2,bjmc,not allowed,not assigned
+2777800,3,bjmc,not allowed,not assigned
+2777814,1,history,allowed,Medium room
+2777815,2,history,allowed,Medium room
+2777837,4,chemistry,allowed,Medium room
+2777858,4,botany,allowed,Medium room
+2604364,1,history,allowed,Medium room
+2604408,3,finance,allowed,Small room
+2604407,2,finance,allowed,Small room
+2604420,1,physics,allowed,Medium room
+2777899,1,computer science,allowed,Medium room
+2604365,2,history,allowed,Medium room
+2604413,2,english,allowed,Large room
+2604406,1,finance,allowed,Small room
+2604366,3,history,allowed,Medium room
+2604412,1,english,allowed,Large room
+2604421,2,physics,allowed,Medium room
+2777900,4,commerce,not allowed,not assigned
+2777918,1,applied science & humanities,not allowed,not assigned
+2777919,2,applied science & humanities,not allowed,not assigned
+2777920,3,applied science & humanities,not allowed,not assigned
+2777924,1,political science,allowed,Small room
+2777925,2,political science,allowed,Small room
+2777938,1,arts,allowed,Auditorium
+2777939,2,arts,allowed,Auditorium
+2777940,3,arts,allowed,Auditorium
+2777943,1,btc 2013,not allowed,not assigned
+2777944,2,btc 2013,not allowed,not assigned
+2777978,1,botany,allowed,Medium room
+2777979,2,botany,allowed,Medium room
+2267347,3,science,allowed,Auditorium
+2267346,2,science,allowed,Auditorium
+2267345,1,science,allowed,Auditorium
+2778042,1,mobile communication,not allowed,not assigned
+2778043,2,mobile communication,not allowed,not assigned
+2778044,3,mobile communication,not allowed,not assigned
+2778045,1,computer engg,not allowed,not assigned
+2778046,2,computer engg,not allowed,not assigned
+2778047,3,computer engg,not allowed,not assigned
+2778048,1,digital electronics,not allowed,not assigned
+2778049,2,digital electronics,not allowed,not assigned
+2778050,3,digital electronics,not allowed,not assigned
+2778069,1,science arts,not allowed,not assigned
+2778070,2,science arts,not allowed,not assigned
+2604139,1,arts,allowed,Auditorium
+2604140,2,arts,allowed,Auditorium
+2778185,1,molecular virology,not allowed,not assigned
+2778186,2,molecular virology,not allowed,not assigned
+2778023,2,commerce,allowed,Auditorium
+2778021,3,science,allowed,Auditorium
+2778020,2,science,allowed,Auditorium
+2778019,1,science,allowed,Auditorium
+2778022,1,commerce,allowed,Auditorium
+2778014,1,english geography,not allowed,not assigned
+2778015,2,english geography,not allowed,not assigned
+2778024,3,commerce,allowed,Auditorium
+2778255,1,science,allowed,Auditorium
+2778256,2,science,allowed,Auditorium
+2778257,3,science,allowed,Auditorium
+2778347,1,arts,allowed,Auditorium
+2778348,2,arts,allowed,Auditorium
+2778349,3,arts,allowed,Auditorium
+2778352,1,chemistry,allowed,Medium room
+2778353,2,chemistry,allowed,Medium room
+2778412,1,physics,allowed,Medium room
+2778413,2,physics,allowed,Medium room
+2778444,1,economics,allowed,Medium room
+2778445,2,economics,allowed,Medium room
+2778446,3,economics,allowed,Medium room
+2778456,1,chemical engineering,allowed,Medium room
+2778457,2,chemical engineering,allowed,Medium room
+2778458,3,chemical engineering,allowed,Medium room
+2778459,4,chemical engineering,allowed,Medium room
+2778460,5,chemical engineering,allowed,Medium room
+2778463,1,infra structural engineering,not allowed,not assigned
+2778464,2,infra structural engineering,not allowed,not assigned
+2778512,1,electronics & communication engineering,not allowed,not assigned
+2778513,2,electronics & communication engineering,not allowed,not assigned
+2778514,3,electronics & communication engineering,not allowed,not assigned
+2778515,4,electronics & communication engineering,not allowed,not assigned
+2778516,1,drugs and pharmaceuticals,not allowed,not assigned
+2778517,2,drugs and pharmaceuticals,not allowed,not assigned
+2778528,1,fibre optics and communication,not allowed,not assigned
+2778529,2,fibre optics and communication,not allowed,not assigned
+2778552,1,mechanical engineering,allowed,Medium room
+2778553,2,mechanical engineering,allowed,Medium room
+2778554,3,mechanical engineering,allowed,Medium room
+2778555,4,mechanical engineering,allowed,Medium room
+2778556,5,mechanical engineering,allowed,Medium room
+2778557,1,computer science & engineering,allowed,Small room
+2778558,2,computer science & engineering,allowed,Small room
+2778559,3,computer science & engineering,allowed,Small room
+2778560,4,computer science & engineering,allowed,Small room
+2778561,1,civil engineering,allowed,Medium room
+2778562,2,civil engineering,allowed,Medium room
+2778563,3,civil engineering,allowed,Medium room
+2778564,4,civil engineering,allowed,Medium room
+2778565,5,civil engineering,allowed,Medium room
+2778597,1,d.el.ed,not allowed,not assigned
+2778598,2,d.el.ed,not allowed,not assigned
+2778618,1,bengali,allowed,Small room
+2778619,2,bengali,allowed,Small room
+2778620,3,bengali,allowed,Small room
+2778723,1,bengali,allowed,Small room
+2778724,2,bengali,allowed,Small room
+2778725,3,bengali,allowed,Small room
+2778784,1,ece,allowed,Small room
+2778785,2,ece,allowed,Small room
+2778786,3,ece,allowed,Small room
+2778787,4,ece,allowed,Small room
+2778806,1,management,allowed,Medium room
+2778807,2,management,allowed,Medium room
+2778808,3,management,allowed,Medium room
+2778809,1,management,allowed,Medium room
+2778810,2,management,allowed,Medium room
+2778811,3,management,allowed,Medium room
+2778818,1,civil,allowed,Medium room
+2778819,2,civil,allowed,Medium room
+2778820,3,civil,allowed,Medium room
+2778839,1,mathematics,allowed,Medium room
+2778840,2,mathematics,allowed,Medium room
+2778841,3,mathematics,allowed,Medium room
+2778845,1,commerce,allowed,Auditorium
+2778846,2,commerce,allowed,Auditorium
+2778847,3,commerce,allowed,Auditorium
+2778869,1,english,allowed,Large room
+2778870,2,english,allowed,Large room
+2778871,3,english,allowed,Large room
+2639157,2,arts,allowed,Auditorium
+2639158,3,arts,allowed,Auditorium
+2639156,1,arts,allowed,Auditorium
+2778896,1,arts,allowed,Auditorium
+2778897,2,arts,allowed,Auditorium
+2778898,3,arts,allowed,Auditorium
+2779070,1,general,allowed,Medium room
+2779071,2,general,allowed,Medium room
+2779072,3,general,allowed,Medium room
+2779091,1,microbiology-botany-chemistry,not allowed,not assigned
+2779092,2,microbiology-botany-chemistry,not allowed,not assigned
+2779093,3,microbiology-botany-chemistry,not allowed,not assigned
+2779094,1,b.b.m,not allowed,not assigned
+2779095,2,b.b.m,not allowed,not assigned
+2779096,3,b.b.m,not allowed,not assigned
+2779182,1,science,allowed,Auditorium
+2779183,2,science,allowed,Auditorium
+2779184,3,science,allowed,Auditorium
+2779219,1,commerce,allowed,Auditorium
+2779220,2,commerce,allowed,Auditorium
+2779221,3,commerce,allowed,Auditorium
+2779222,4,commerce,not allowed,not assigned
+2779286,1,music,allowed,Small room
+2779287,2,music,allowed,Small room
+2779288,3,music,allowed,Small room
+2779289,4,music,allowed,Small room
+2779300,1,sociology,allowed,Small room
+2779301,2,sociology,allowed,Small room
+2779302,3,sociology,allowed,Small room
+2779303,4,sociology,allowed,Small room
+2779304,1,mathematics,allowed,Medium room
+2779305,2,mathematics,allowed,Medium room
+2779306,3,mathematics,allowed,Medium room
+2779318,1,philosophy,allowed,Small room
+2779319,2,philosophy,allowed,Small room
+2779320,3,philosophy,allowed,Small room
+2779321,4,philosophy,allowed,Small room
+2779322,1,english,allowed,Large room
+2779323,2,english,allowed,Large room
+2779324,3,english,allowed,Large room
+2779325,4,english,allowed,Large room
+2779341,1,english,allowed,Large room
+2779342,2,english,allowed,Large room
+2779343,3,english,allowed,Large room
+2779350,1,botany,allowed,Medium room
+2779351,2,botany,allowed,Medium room
+2779352,3,botany,allowed,Medium room
+2779362,1,sanskrit,allowed,Small room
+2779363,2,sanskrit,allowed,Small room
+2779364,3,sanskrit,allowed,Small room
+2605328,2,mathematics,allowed,Medium room
+2605304,1,sociology,allowed,Small room
+2605318,1,urdu,allowed,Small room
+2605329,3,mathematics,allowed,Medium room
+2605319,2,urdu,allowed,Small room
+2605327,1,mathematics,allowed,Medium room
+2605306,3,sociology,allowed,Small room
+2605305,2,sociology,allowed,Small room
+2605320,3,urdu,allowed,Small room
+2779378,1,co,not allowed,not assigned
+2779379,2,co,not allowed,not assigned
+2779380,3,co,not allowed,not assigned
+2779390,1,education,allowed,Large room
+2779411,1,science,allowed,Auditorium
+2779412,2,science,allowed,Auditorium
+2779413,3,science,allowed,Auditorium
+2779417,1,education,allowed,Large room
+2779418,2,education,allowed,Large room
+2779419,1,general,allowed,Medium room
+2779420,2,general,allowed,Medium room
+2779421,3,general,allowed,Medium room
+2779439,1,mechanical,allowed,Medium room
+2779440,2,mechanical,allowed,Medium room
+2779441,3,mechanical,allowed,Medium room
+2779453,1,commerce,allowed,Auditorium
+2779454,2,commerce,allowed,Auditorium
+2779476,1,pali,allowed,Small room
+2779477,2,pali,allowed,Small room
+2779478,3,pali,allowed,Small room
+2779518,1,zoology,allowed,Medium room
+2779519,2,zoology,allowed,Medium room
+2779520,3,zoology,allowed,Medium room
+2779551,1,home science,allowed,Small room
+2779552,2,home science,allowed,Small room
+2779553,3,home science,allowed,Small room
+2779592,1,mechanical,allowed,Medium room
+2779593,2,mechanical,allowed,Medium room
+2779594,3,mechanical,allowed,Medium room
+2779647,1,business administration,allowed,Small room
+2779648,2,business administration,allowed,Small room
+2779716,1,science,allowed,Auditorium
+2779717,2,science,allowed,Auditorium
+2779718,3,science,allowed,Auditorium
+2779761,1,civil engineering,allowed,Medium room
+2779762,2,civil engineering,allowed,Medium room
+2779763,3,civil engineering,allowed,Medium room
+2779770,1,arts,allowed,Auditorium
+2779771,2,arts,allowed,Auditorium
+2779772,3,arts,allowed,Auditorium
+2779822,1,taalvadya-parichay,not allowed,not assigned
+2779823,2,taalvadya-parichay,not allowed,not assigned
+2779862,1,dance-parangat,not allowed,not assigned
+2779863,2,dance-parangat,not allowed,not assigned
+2779882,1,business administration,allowed,Small room
+2779883,2,business administration,allowed,Small room
+2779936,1,civil engineering,allowed,Medium room
+2779937,2,civil engineering,allowed,Medium room
+2779938,3,civil engineering,allowed,Medium room
+2779939,4,civil engineering,allowed,Medium room
+2779964,1,science,allowed,Auditorium
+2779965,2,science,allowed,Auditorium
+2779966,3,science,allowed,Auditorium
+2779974,1,nursing,allowed,Medium room
+2779975,2,nursing,allowed,Medium room
+2779976,3,nursing,allowed,Medium room
+2779977,1,arts,allowed,Auditorium
+2779978,2,arts,allowed,Auditorium
+2779979,3,arts,allowed,Auditorium
+2780046,3,science,allowed,Auditorium
+2780047,1,science,allowed,Auditorium
+2780050,1,arts,allowed,Auditorium
+2780056,2,science,allowed,Auditorium
+2780059,3,science,allowed,Auditorium
+2780061,2,arts,allowed,Auditorium
+2780063,1,science,allowed,Auditorium
+2780066,3,arts,allowed,Auditorium
+2780067,2,science,allowed,Auditorium
+2780070,2,science,allowed,Auditorium
+2780073,3,science,allowed,Auditorium
+2780078,1,science,allowed,Auditorium
+2780124,1,mat,not allowed,not assigned
+2780125,2,mat,not allowed,not assigned
+2780126,3,mat,not allowed,not assigned
+2780157,1,electro nics and commun ications enginee ring,not allowed,not assigned
+2780158,2,electro nics and commun ications enginee ring,not allowed,not assigned
+2780171,1,mechanical engg.,not allowed,not assigned
+2780172,2,mechanical engg.,not allowed,not assigned
+2780173,3,mechanical engg.,not allowed,not assigned
+2780174,4,mechanical engg.,not allowed,not assigned
+2780205,1,science,allowed,Auditorium
+2780206,2,science,allowed,Auditorium
+2780207,3,science,allowed,Auditorium
+2777622,1,electronics,allowed,Small room
+2777624,3,electronics,allowed,Small room
+2777648,1,administration services,not allowed,not assigned
+2777650,3,administration services,not allowed,not assigned
+2777649,2,administration services,not allowed,not assigned
+2777623,2,electronics,allowed,Small room
+2777625,4,electronics,allowed,Small room
+2780258,1,git,not allowed,not assigned
+2780259,2,git,not allowed,not assigned
+2780263,1,arts,allowed,Auditorium
+2780264,2,arts,allowed,Auditorium
+2780265,3,arts,allowed,Auditorium
+2780266,4,arts,allowed,Auditorium
+2780267,5,arts,allowed,Auditorium
+2780268,5,arts,allowed,Auditorium
+2780269,5,arts,allowed,Auditorium
+2780270,5,arts,allowed,Auditorium
+2780274,1,education,allowed,Large room
+2780275,2,education,allowed,Large room
+2780308,1,philosophy,allowed,Small room
+2780309,2,philosophy,allowed,Small room
+2780310,3,philosophy,allowed,Small room
+2780311,1,geography,allowed,Small room
+2780312,2,geography,allowed,Small room
+2780313,3,geography,allowed,Small room
+2780420,1,science,allowed,Auditorium
+2780421,2,science,allowed,Auditorium
+2780422,3,science,allowed,Auditorium
+2780461,1,veterinary epidemiology & preventive medicine,not allowed,not assigned
+2780462,2,veterinary epidemiology & preventive medicine,not allowed,not assigned
+2780513,1,science,allowed,Auditorium
+2780514,2,science,allowed,Auditorium
+2780515,3,science,allowed,Auditorium
+2780533,1,library,not allowed,not assigned
+2780597,1,computer,allowed,Medium room
+2780598,2,computer,allowed,Medium room
+2780603,1,computer,allowed,Medium room
+2780604,2,computer,allowed,Medium room
+2780605,3,computer,allowed,Medium room
+2780606,4,computer,allowed,Medium room
+2780890,1,diploma in computer engineering,not allowed,not assigned
+2780891,2,diploma in computer engineering,not allowed,not assigned
+2780892,3,diploma in computer engineering,not allowed,not assigned
+2780905,1,d.ed,not allowed,not assigned
+2780906,2,d.ed,not allowed,not assigned
+2780913,1,commerce,allowed,Auditorium
+2780914,2,commerce,allowed,Auditorium
+2780915,3,commerce,allowed,Auditorium
+2780936,1,electronics and communication,not allowed,not assigned
+2780937,2,electronics and communication,not allowed,not assigned
+2780938,3,electronics and communication,not allowed,not assigned
+2780939,4,electronics and communication,not allowed,not assigned
+2781009,2,environmental engg.,not allowed,not assigned
+2781004,1,environment,not allowed,not assigned
+2781026,1,nuclear science & engineering,not allowed,not assigned
+2781008,1,environmental engg.,not allowed,not assigned
+2781006,3,environment,not allowed,not assigned
+2781007,4,environment,not allowed,not assigned
+2781027,2,nuclear science & engineering,not allowed,not assigned
+2781005,2,environment,not allowed,not assigned
+2781244,1,sanskrit,allowed,Small room
+2781245,2,sanskrit,allowed,Small room
+2781246,3,sanskrit,allowed,Small room
+2781247,1,urdu,allowed,Small room
+2781248,2,urdu,allowed,Small room
+2781249,3,urdu,allowed,Small room
+2781262,1,maithili,allowed,Small room
+2781263,2,maithili,allowed,Small room
+2781264,3,maithili,allowed,Small room
+2781277,1,computer,allowed,Medium room
+2781278,2,computer,allowed,Medium room
+2781279,3,computer,allowed,Medium room
+2781290,1,discipline,not allowed,not assigned
+2781291,2,discipline,not allowed,not assigned
+2781292,3,discipline,not allowed,not assigned
+2781311,1,mathematics,allowed,Medium room
+2781314,1,computer engineering,allowed,Small room
+2781315,2,computer engineering,allowed,Small room
+2781316,3,computer engineering,allowed,Small room
+2781320,1,electronics engineering,not allowed,not assigned
+2781321,2,electronics engineering,not allowed,not assigned
+2781322,3,electronics engineering,not allowed,not assigned
+2781331,1,cse,allowed,Medium room
+2781332,2,cse,allowed,Medium room
+2781333,3,cse,allowed,Medium room
+2781334,4,cse,allowed,Medium room
+2781350,1,arts,allowed,Auditorium
+2781351,2,arts,allowed,Auditorium
+2781352,3,arts,allowed,Auditorium
+2781359,1,cse,allowed,Medium room
+2781360,2,cse,allowed,Medium room
+2781361,3,cse,allowed,Medium room
+2781362,4,cse,allowed,Medium room
+2781463,1,quality assurance,not allowed,not assigned
+2781464,2,quality assurance,not allowed,not assigned
+2781568,1,sociology,allowed,Small room
+2781569,2,sociology,allowed,Small room
+2781570,3,sociology,allowed,Small room
+2781583,1,arts,allowed,Auditorium
+2781584,2,arts,allowed,Auditorium
+2781585,3,arts,allowed,Auditorium
+2781625,1,arts,allowed,Auditorium
+2781626,2,arts,allowed,Auditorium
+2781627,3,arts,allowed,Auditorium
+2781631,1,science,allowed,Auditorium
+2781632,2,science,allowed,Auditorium
+2781633,3,science,allowed,Auditorium
+2781643,1,commerce,allowed,Auditorium
+2781644,2,commerce,allowed,Auditorium
+2781645,3,commerce,allowed,Auditorium
+2781658,1,maths,allowed,Small room
+2781659,2,maths,allowed,Small room
+2781660,3,maths,allowed,Small room
+2781742,1,education,allowed,Large room
+2781743,2,education,allowed,Large room
+2781790,1,commerce,allowed,Auditorium
+2781791,2,commerce,allowed,Auditorium
+2781792,3,commerce,allowed,Auditorium
+2781793,1,computer application,allowed,Medium room
+2781794,2,computer application,allowed,Medium room
+2781795,3,computer application,allowed,Medium room
+2781796,1,arts,allowed,Auditorium
+2781797,2,arts,allowed,Auditorium
+2781798,3,arts,allowed,Auditorium
+2781836,1,english,allowed,Large room
+2781837,2,english,allowed,Large room
+2781838,3,english,allowed,Large room
+2781839,1,business administration,allowed,Small room
+2781840,2,business administration,allowed,Small room
+2781841,1,law,allowed,Medium room
+2781842,2,law,allowed,Medium room
+2781843,3,law,allowed,Medium room
+2781844,1,dcl,not allowed,not assigned
+2781869,1,construction technology,not allowed,not assigned
+2781870,2,construction technology,not allowed,not assigned
+2781893,1,english,allowed,Large room
+2781894,2,english,allowed,Large room
+2781949,1,database,not allowed,not assigned
+2781950,2,database,not allowed,not assigned
+2781951,3,database,not allowed,not assigned
+2781952,4,database,not allowed,not assigned
+2781953,1,hcl,not allowed,not assigned
+2781954,2,hcl,not allowed,not assigned
+2781961,1,data structure,not allowed,not assigned
+2781962,2,data structure,not allowed,not assigned
+2781963,3,data structure,not allowed,not assigned
+2781964,4,data structure,not allowed,not assigned
+2781977,1,korean,not allowed,not assigned
+2781978,2,korean,not allowed,not assigned
+2781979,3,korean,not allowed,not assigned
+2781980,4,korean,not allowed,not assigned
+2781983,1,computer architecture,not allowed,not assigned
+2781984,2,computer architecture,not allowed,not assigned
+2781985,3,computer architecture,not allowed,not assigned
+2781986,4,computer architecture,not allowed,not assigned
+2782002,1,civil,allowed,Medium room
+2782003,2,civil,allowed,Medium room
+2782004,3,civil,allowed,Medium room
+2782116,1,commerce,allowed,Auditorium
+2782117,2,commerce,allowed,Auditorium
+2782118,3,commerce,allowed,Auditorium
+2782122,1,management,allowed,Medium room
+2782123,2,management,allowed,Medium room
+2782124,3,management,allowed,Medium room
+2782127,1,commerce,allowed,Auditorium
+2782128,2,commerce,allowed,Auditorium
+2782214,1,general,allowed,Medium room
+2782215,2,general,allowed,Medium room
+2782216,3,general,allowed,Medium room
+2782217,4,general,allowed,Medium room
+2782235,1,sanskrit,allowed,Small room
+2782236,2,sanskrit,allowed,Small room
+2782237,3,sanskrit,allowed,Small room
+2782265,1,hindi,allowed,Small room
+2782266,2,hindi,allowed,Small room
+2782267,3,hindi,allowed,Small room
+2782292,1,urdu,allowed,Small room
+2782293,2,urdu,allowed,Small room
+2782294,3,urdu,allowed,Small room
+2249190,2,admistrator,not allowed,not assigned
+2249189,1,admistrator,not allowed,not assigned
+2249191,3,admistrator,not allowed,not assigned
+2782348,1,science,allowed,Auditorium
+2782349,2,science,allowed,Auditorium
+2782350,3,science,allowed,Auditorium
+2782387,1,civit,not allowed,not assigned
+2782388,2,civit,not allowed,not assigned
+2782389,3,civit,not allowed,not assigned
+2782393,1,electrical,allowed,Medium room
+2782394,2,electrical,allowed,Medium room
+2782395,3,electrical,allowed,Medium room
+2782407,1,coumputer science,allowed,Medium room
+2782408,4,coumputer science,allowed,Medium room
+2782410,2,coumputer science,allowed,Medium room
+2782412,3,coumputer science,allowed,Medium room
+2782460,1,ca,allowed,Small room
+2782461,2,ca,allowed,Small room
+2782462,3,ca,allowed,Small room
+2782463,1,it cs,not allowed,not assigned
+2782464,2,it cs,not allowed,not assigned
+2782470,1,science,allowed,Auditorium
+2782471,2,science,allowed,Auditorium
+2782472,3,science,allowed,Auditorium
+2782536,1,arts,allowed,Auditorium
+2782537,1,arts,allowed,Auditorium
+2782538,2,arts,allowed,Auditorium
+2782539,2,arts,allowed,Auditorium
+2782540,3,arts,allowed,Auditorium
+2782541,3,arts,allowed,Auditorium
+2782542,1,education,allowed,Large room
+2782552,1,agriculture,not allowed,not assigned
+2782553,2,agriculture,not allowed,not assigned
+2782554,3,agriculture,not allowed,not assigned
+2782555,4,agriculture,not allowed,not assigned
+2782564,4,pathology,not allowed,not assigned
+2782589,1,sociology,allowed,Small room
+2782590,2,sociology,allowed,Small room
+2782628,1,english,allowed,Large room
+2782629,2,english,allowed,Large room
+2782630,1,history,allowed,Medium room
+2782631,2,history,allowed,Medium room
+2782632,3,history,allowed,Medium room
+2782647,1,bio-chemistry,allowed,Small room
+2782648,2,bio-chemistry,allowed,Small room
+2782652,4,physics,allowed,Medium room
+2782653,1,botany,allowed,Medium room
+2782654,2,botany,allowed,Medium room
+2782748,1,english literature,not allowed,not assigned
+2782749,2,english literature,not allowed,not assigned
+2782750,3,english literature,not allowed,not assigned
+2782754,1,arts,allowed,Auditorium
+2782755,2,arts,allowed,Auditorium
+2782756,3,arts,allowed,Auditorium
+2760271,1,tax procedure and practice,not allowed,not assigned
+2760273,3,tax procedure and practice,not allowed,not assigned
+2760272,2,tax procedure and practice,not allowed,not assigned
+2782778,1,chemistry,allowed,Medium room
+2782779,2,chemistry,allowed,Medium room
+2782872,1,civil engineering,allowed,Medium room
+2782873,2,civil engineering,allowed,Medium room
+2782874,3,civil engineering,allowed,Medium room
+2782912,1,bsc bzc,not allowed,not assigned
+2782913,2,bsc bzc,not allowed,not assigned
+2782914,3,bsc bzc,not allowed,not assigned
+2783000,1,electrical engineering,allowed,Small room
+2783001,2,electrical engineering,allowed,Small room
+2783002,3,electrical engineering,allowed,Small room
+2783009,1,electronics & communication engineeering,not allowed,not assigned
+2783010,2,electronics & communication engineeering,not allowed,not assigned
+2783011,3,electronics & communication engineeering,not allowed,not assigned
+2783012,1,mechanical engineering,allowed,Medium room
+2783013,2,mechanical engineering,allowed,Medium room
+2783014,3,mechanical engineering,allowed,Medium room
+2783027,1,education,allowed,Large room
+2783031,1,science,allowed,Auditorium
+2783032,2,science,allowed,Auditorium
+2783033,3,science,allowed,Auditorium
+2783062,4,home sc. food & nutrition,not allowed,not assigned
+2783074,4,political science,allowed,Small room
+2783091,4,aih,not allowed,not assigned
+2783103,4,philosophy,allowed,Small room
+2783106,4,bengali,allowed,Small room
+2783116,1,hindi,allowed,Small room
+2783117,2,hindi,allowed,Small room
+2783130,4,commerce,not allowed,not assigned
+2783149,4,chemistry,allowed,Medium room
+2783191,1,computer application,allowed,Medium room
+2783192,2,computer application,allowed,Medium room
+2783193,3,computer application,allowed,Medium room
+2783220,1,commerce,allowed,Auditorium
+2783221,2,commerce,allowed,Auditorium
+2783224,1,economics,allowed,Medium room
+2783225,2,economics,allowed,Medium room
+2783236,1,professional  accounting,not allowed,not assigned
+2783237,2,professional  accounting,not allowed,not assigned
+2783238,3,professional  accounting,not allowed,not assigned
+2783252,1,computer applications,allowed,Small room
+2783253,2,computer applications,allowed,Small room
+2783254,3,computer applications,allowed,Small room
+2783267,4,physics,allowed,Medium room
+2783297,1,computer applications,allowed,Small room
+2783298,2,computer applications,allowed,Small room
+2783299,3,computer applications,allowed,Small room
+2783303,1,mathematics,allowed,Medium room
+2783304,2,mathematics,allowed,Medium room
+2783316,1,computer science,allowed,Medium room
+2783317,2,computer science,allowed,Medium room
+2781420,2,engineering & technology,allowed,Small room
+2781436,2,engineering & technology,allowed,Small room
+2781419,1,engineering & technology,allowed,Small room
+2781422,4,engineering & technology,allowed,Small room
+2781435,1,engineering & technology,allowed,Small room
+2781421,3,engineering & technology,allowed,Small room
+2783366,1,electronics & communication engg,allowed,Small room
+2783367,2,electronics & communication engg,allowed,Small room
+2783370,1,electronics & communication engg,allowed,Small room
+2783371,2,electronics & communication engg,allowed,Small room
+2783372,3,electronics & communication engg,allowed,Small room
+2783373,4,electronics & communication engg,allowed,Small room
+2783376,1,computer science and engineering,allowed,Small room
+2783377,2,computer science and engineering,allowed,Small room
+2783378,3,computer science and engineering,allowed,Small room
+2783379,4,computer science and engineering,allowed,Small room
+2783382,1,civil engineering,allowed,Medium room
+2783383,2,civil engineering,allowed,Medium room
+2783384,3,civil engineering,allowed,Medium room
+2783385,4,civil engineering,allowed,Medium room
+2783398,1,electronics & communication engg,allowed,Small room
+2783399,2,electronics & communication engg,allowed,Small room
+2783400,3,electronics & communication engg,allowed,Small room
+2783401,1,electrical engineering,allowed,Small room
+2783402,2,electrical engineering,allowed,Small room
+2783403,3,electrical engineering,allowed,Small room
+2783421,1,cbz,allowed,Small room
+2783422,2,cbz,allowed,Small room
+2783423,3,cbz,allowed,Small room
+2783495,1,electrical,allowed,Medium room
+2783496,2,electrical,allowed,Medium room
+2783497,3,electrical,allowed,Medium room
+2783515,1,arts,allowed,Auditorium
+2783516,2,arts,allowed,Auditorium
+2783517,3,arts,allowed,Auditorium
+2783587,1,computer engg with specialization in cloud computing.,not allowed,not assigned
+2783588,2,computer engg with specialization in cloud computing.,not allowed,not assigned
+2783589,3,computer engg with specialization in cloud computing.,not allowed,not assigned
+2783590,4,computer engg with specialization in cloud computing.,not allowed,not assigned
+2783625,1,electronics & communication engg.  with specialization in  vlsi design & embedded systems,not allowed,not assigned
+2783626,2,electronics & communication engg.  with specialization in  vlsi design & embedded systems,not allowed,not assigned
+2783637,1,bio technology,not allowed,not assigned
+2783638,2,bio technology,not allowed,not assigned
+2783664,1,information technology,not allowed,not assigned
+2783665,2,information technology,allowed,Small room
+2783666,3,information technology,allowed,Small room
+2783674,1,english,allowed,Large room
+2783675,2,english,allowed,Large room
+2783676,3,english,allowed,Large room
+2783683,1,nutrition & dietetics,not allowed,not assigned
+2783684,2,nutrition & dietetics,not allowed,not assigned
+2783690,1,physiotherapy,allowed,Small room
+2783691,2,physiotherapy,allowed,Small room
+2783708,1,biotechnology,allowed,Small room
+2783709,2,biotechnology,allowed,Small room
+2783710,3,biotechnology,allowed,Small room
+2783711,4,biotechnology,allowed,Small room
+2783763,1,arts,allowed,Auditorium
+2783764,2,arts,allowed,Auditorium
+2783765,3,arts,allowed,Auditorium
+2783766,1,arts,allowed,Auditorium
+2783767,2,arts,allowed,Auditorium
+2783768,3,arts,allowed,Auditorium
+2783801,1,arts,allowed,Auditorium
+2783802,2,arts,allowed,Auditorium
+2783803,3,arts,allowed,Auditorium
+2783804,1,science,allowed,Auditorium
+2783805,2,science,allowed,Auditorium
+2783806,3,science,allowed,Auditorium
+2783831,1,science,allowed,Auditorium
+2783832,2,science,allowed,Auditorium
+2783895,1,(biotechnology)),not allowed,not assigned
+2783896,2,(biotechnology)),not allowed,not assigned
+2783901,1,social science,not allowed,not assigned
+2783902,2,social science,not allowed,not assigned
+2783905,1,lib. & info sci,not allowed,not assigned
+2783958,1,electronics & comm. engg.,not allowed,not assigned
+2783959,2,electronics & comm. engg.,not allowed,not assigned
+2783960,4,electronics & comm. engg.,not allowed,not assigned
+2783966,1,english,allowed,Large room
+2783967,2,english,allowed,Large room
+2783973,4,punjabi,not allowed,not assigned
+2783979,1,full time,not allowed,not assigned
+2783990,4,physical edu.,not allowed,not assigned
+2784019,1,bpt,not allowed,not assigned
+2784020,2,bpt,not allowed,not assigned
+2784021,3,bpt,not allowed,not assigned
+2784022,4,bpt,not allowed,not assigned
+2784027,1,mangement,not allowed,not assigned
+2784028,2,mangement,not allowed,not assigned
+2784029,3,mangement,not allowed,not assigned
+2784088,1,bzc,allowed,Small room
+2784089,2,bzc,allowed,Small room
+2784090,3,bzc,allowed,Small room
+2784108,1,zoology,allowed,Medium room
+2784109,2,zoology,allowed,Medium room
+2784136,1,coumputer science,allowed,Medium room
+2784137,2,coumputer science,allowed,Medium room
+2784138,3,coumputer science,allowed,Medium room
+2784154,1,commerce,allowed,Auditorium
+2784155,2,commerce,allowed,Auditorium
+2784162,1,chemistry,allowed,Medium room
+2784163,2,chemistry,allowed,Medium room
+2784164,3,chemistry,allowed,Medium room
+2784175,1,maths,allowed,Small room
+2784176,2,maths,allowed,Small room
+2784203,1,zoology,allowed,Medium room
+2784204,2,zoology,allowed,Medium room
+2784233,1,computer science,allowed,Medium room
+2784234,2,computer science,allowed,Medium room
+2784241,4,hindi,allowed,Small room
+2784360,1,b.ed.,not allowed,not assigned
+2784361,2,b.ed.,not allowed,not assigned
+2784397,1,power systems engineering,not allowed,not assigned
+2784398,2,power systems engineering,not allowed,not assigned
+2784407,1,computer integrated manufacturing,not allowed,not assigned
+2784408,2,computer integrated manufacturing,not allowed,not assigned
+2784411,1,automobile engineering,not allowed,not assigned
+2784412,2,automobile engineering,not allowed,not assigned
+2784435,1,chemical engineering,allowed,Medium room
+2784436,2,chemical engineering,allowed,Medium room
+2784437,3,chemical engineering,allowed,Medium room
+2784438,4,chemical engineering,allowed,Medium room
+2784465,1,m.sc chemistry(analytical chemistry),not allowed,not assigned
+2784466,2,m.sc chemistry(analytical chemistry),not allowed,not assigned
+2784491,1,if,not allowed,not assigned
+2784492,2,if,not allowed,not assigned
+2784493,3,if,not allowed,not assigned
+2784515,1,arts,allowed,Auditorium
+2784516,2,arts,allowed,Auditorium
+2784517,3,arts,allowed,Auditorium
+2784531,1,arts,allowed,Auditorium
+2784532,2,arts,allowed,Auditorium
+2784533,3,arts,allowed,Auditorium
+2784600,1,arts,allowed,Auditorium
+2784601,2,arts,allowed,Auditorium
+2784602,3,arts,allowed,Auditorium
+2784617,1,kayachikitsa,not allowed,not assigned
+2784618,2,kayachikitsa,not allowed,not assigned
+2784619,3,kayachikitsa,not allowed,not assigned
+2784632,1,rasshastra evum bhaisgya kalpana,not allowed,not assigned
+2784633,2,rasshastra evum bhaisgya kalpana,not allowed,not assigned
+2784634,3,rasshastra evum bhaisgya kalpana,not allowed,not assigned
+2784671,1,electrical,allowed,Medium room
+2784672,2,electrical,allowed,Medium room
+2784673,3,electrical,allowed,Medium room
+2784723,1,arts,allowed,Auditorium
+2784724,2,arts,allowed,Auditorium
+2784748,1,thermal power engineering,not allowed,not assigned
+2784749,2,thermal power engineering,not allowed,not assigned
+2784884,1,msc cs,not allowed,not assigned
+2784885,2,msc cs,not allowed,not assigned
+2784890,1,pgdca,not allowed,not assigned
+2784899,1,electros & communicationnic,not allowed,not assigned
+2784900,2,electros & communicationnic,not allowed,not assigned
+2784901,3,electros & communicationnic,not allowed,not assigned
+2784902,4,electros & communicationnic,not allowed,not assigned
+2683699,2,home science,allowed,Small room
+2683700,3,home science,allowed,Small room
+2683688,3,urdu,allowed,Small room
+2683686,1,urdu,allowed,Small room
+2683698,1,home science,allowed,Small room
+2683687,2,urdu,allowed,Small room
+2784912,1,yes,not allowed,not assigned
+2784913,2,yes,not allowed,not assigned
+2784914,3,yes,not allowed,not assigned
+2784915,1,math chemistry,not allowed,not assigned
+2784916,2,math chemistry,not allowed,not assigned
+2784927,1,dcp,not allowed,not assigned
+2784928,2,dcp,not allowed,not assigned
+2784929,3,dcp,not allowed,not assigned
+2784948,1,mechanical engineering,allowed,Medium room
+2784949,2,mechanical engineering,allowed,Medium room
+2784950,3,mechanical engineering,allowed,Medium room
+2784951,4,mechanical engineering,allowed,Medium room
+2784989,1,pharmacognosy,not allowed,not assigned
+2784990,2,pharmacognosy,not allowed,not assigned
+2785019,1,deee,not allowed,not assigned
+2785020,2,deee,not allowed,not assigned
+2785021,3,deee,not allowed,not assigned
+2785051,1,arts,allowed,Auditorium
+2785052,2,arts,allowed,Auditorium
+2785053,3,arts,allowed,Auditorium
+2785078,1,science,allowed,Auditorium
+2785079,2,science,allowed,Auditorium
+2785093,4,physical education,not allowed,not assigned
+2785095,1,physical education,not allowed,not assigned
+2785099,4,environmental science,not allowed,not assigned
+2785103,4,aqua culture,not allowed,not assigned
+2785119,1,botany,allowed,Medium room
+2785120,2,botany,allowed,Medium room
+2785174,1,nanotechnology,allowed,Small room
+2785175,2,nanotechnology,allowed,Small room
+2785176,3,nanotechnology,allowed,Small room
+2785177,4,nanotechnology,allowed,Small room
+2785178,5,nanotechnology,allowed,Small room
+2785191,4,statistics,not allowed,not assigned
+2785218,4,history & archeology,not allowed,not assigned
+2785223,1,history & archeology,not allowed,not assigned
+2785230,1,management,allowed,Medium room
+2785231,2,management,allowed,Medium room
+2785301,1,mca,allowed,Small room
+2785302,2,mca,allowed,Small room
+2785326,1,mathematics,allowed,Medium room
+2785327,2,mathematics,allowed,Medium room
+2785328,3,mathematics,allowed,Medium room
+2785329,1,commerce,allowed,Auditorium
+2785343,1,english,allowed,Large room
+2785344,2,english,allowed,Large room
+2785367,1,history,allowed,Medium room
+2785368,1,international business,not allowed,not assigned
+2785369,2,international business,not allowed,not assigned
+2785373,1,computer science,allowed,Medium room
+2785374,2,computer science,allowed,Medium room
+2785375,3,computer science,allowed,Medium room
+2785379,1,chemstry,not allowed,not assigned
+2785380,1,history,allowed,Medium room
+2785381,2,history,allowed,Medium room
+2785382,3,history,allowed,Medium room
+2785388,1,geography,allowed,Small room
+2785389,2,geography,allowed,Small room
+2785390,3,geography,allowed,Small room
+2785405,1,physics,allowed,Medium room
+2785406,2,physics,allowed,Medium room
+2785407,3,physics,allowed,Medium room
+2785412,1,education,allowed,Large room
+2785457,1,computer,allowed,Medium room
+2785458,2,computer,allowed,Medium room
+2785491,1,commerce,allowed,Auditorium
+2785492,2,commerce,allowed,Auditorium
+2785493,3,commerce,allowed,Auditorium
+2636995,3,yoga,allowed,Small room
+2636997,2,yoga,allowed,Small room
+2637012,1,yoga,allowed,Small room
+2637002,3,yoga,allowed,Small room
+2637000,1,yoga,allowed,Small room
+2637001,2,yoga,allowed,Small room
+2637013,3,yoga,allowed,Small room
+2636994,2,yoga,allowed,Small room
+2636993,1,yoga,allowed,Small room
+2636996,1,yoga,allowed,Small room
+2637015,2,yoga,allowed,Small room
+2785550,1,arts/science,not allowed,not assigned
+2785574,1,b.ed,not allowed,not assigned
+2785617,1,science,allowed,Auditorium
+2785618,2,science,allowed,Auditorium
+2785619,3,science,allowed,Auditorium
+2785620,4,science,allowed,Auditorium
+2785666,1,education,allowed,Large room
+2785677,1,finance,allowed,Small room
+2785678,2,finance,allowed,Small room
+2785679,3,finance,allowed,Small room
+2620066,1,nursing,allowed,Medium room
+2620067,2,nursing,allowed,Medium room
+2785735,1,computer science,allowed,Medium room
+2785765,1,computer science,allowed,Medium room
+2785830,1,computer science,allowed,Medium room
+2785894,1,me,allowed,Small room
+2785895,1,me,allowed,Small room
+2785896,2,me,allowed,Small room
+2785897,2,me,allowed,Small room
+2785898,3,me,allowed,Small room
+2785899,3,me,allowed,Small room
+2785900,4,me,allowed,Small room
+2785901,4,me,allowed,Small room
+2785902,1,cse,allowed,Medium room
+2785903,1,cse,allowed,Medium room
+2785904,2,cse,allowed,Medium room
+2785905,2,cse,allowed,Medium room
+2785906,3,cse,allowed,Medium room
+2785907,3,cse,allowed,Medium room
+2785908,4,cse,allowed,Medium room
+2785909,4,cse,allowed,Medium room
+2693668,4,nursing,allowed,Medium room
+2693665,2,nursing,allowed,Medium room
+2693666,3,nursing,allowed,Medium room
+2693663,1,nursing,allowed,Medium room
+2693669,4,nursing,allowed,Medium room
+2693667,3,nursing,allowed,Medium room
+2693662,1,nursing,allowed,Medium room
+2693664,2,nursing,allowed,Medium room
+2785978,1,electrical engg,not allowed,not assigned
+2785979,2,electrical engg,not allowed,not assigned
+2785980,3,electrical engg,not allowed,not assigned
+2785981,4,electrical engg,not allowed,not assigned
+2786016,4,ee,allowed,Small room
+2786017,4,ee,allowed,Small room
+2786026,1,arts,allowed,Auditorium
+2786027,2,arts,allowed,Auditorium
+2786028,3,arts,allowed,Auditorium
+2786044,1,science,allowed,Auditorium
+2786045,2,science,allowed,Auditorium
+2786046,3,science,allowed,Auditorium
+2786047,1,arts,allowed,Auditorium
+2786048,2,arts,allowed,Auditorium
+2786049,3,arts,allowed,Auditorium
+2786097,1,marathi,allowed,Small room
+2786098,2,marathi,allowed,Small room
+2786099,3,marathi,allowed,Small room
+2786119,1,bsc mpe,not allowed,not assigned
+2786120,2,bsc mpe,not allowed,not assigned
+2786121,3,bsc mpe,not allowed,not assigned
+2786131,1,bsc btmc,not allowed,not assigned
+2786132,2,bsc btmc,not allowed,not assigned
+2786133,3,bsc btmc,not allowed,not assigned
+2786153,1,electronic,not allowed,not assigned
+2786154,2,electronic,not allowed,not assigned
+2786155,3,electronic,not allowed,not assigned
+2786163,1,science,allowed,Auditorium
+2786164,2,science,allowed,Auditorium
+2786165,3,science,allowed,Auditorium
+2786184,1,technician,not allowed,not assigned
+2786185,1,lab technology,not allowed,not assigned
+2786186,2,lab technology,not allowed,not assigned
+2786226,1,commerce,allowed,Auditorium
+2786227,2,commerce,allowed,Auditorium
+2786228,3,commerce,allowed,Auditorium
+2545861,3,engineering,allowed,Medium room
+2545858,1,engineering,allowed,Medium room
+2545862,3,engineering,allowed,Medium room
+2545860,2,engineering,allowed,Medium room
+2545859,2,engineering,allowed,Medium room
+2545863,4,engineering,allowed,Medium room
+2545864,4,engineering,allowed,Medium room
+2545857,1,engineering,allowed,Medium room
+2786230,1,bzc,allowed,Small room
+2786231,2,bzc,allowed,Small room
+2786232,3,bzc,allowed,Small room
+2786248,1,mechanical engg,allowed,Small room
+2786249,2,mechanical engg,allowed,Small room
+2786250,1,mechanical engg,allowed,Small room
+2786251,2,mechanical engg,allowed,Small room
+2786252,3,mechanical engg,allowed,Small room
+2786253,4,mechanical engg,allowed,Small room
+2786266,1,biotechnology,allowed,Small room
+2786267,2,biotechnology,allowed,Small room
+2786268,3,biotechnology,allowed,Small room
+2786269,4,biotechnology,allowed,Small room
+2786369,1,general medicine,allowed,Small room
+2786370,1,general medicine,allowed,Small room
+2786371,2,general medicine,allowed,Small room
+2786372,2,general medicine,allowed,Small room
+2786373,3,general medicine,allowed,Small room
+2786374,3,general medicine,allowed,Small room
+2786429,1,mbbs,allowed,Medium room
+2786430,1,mbbs,allowed,Medium room
+2786431,2,mbbs,allowed,Medium room
+2786432,2,mbbs,allowed,Medium room
+2786433,3,mbbs,allowed,Medium room
+2786434,3,mbbs,allowed,Medium room
+2786435,4,mbbs,allowed,Medium room
+2786436,4,mbbs,allowed,Medium room
+2786437,5,mbbs,allowed,Medium room
+2786438,5,mbbs,allowed,Medium room
+2786466,1,civil,allowed,Medium room
+2786467,2,civil,allowed,Medium room
+2786468,3,civil,allowed,Medium room
+2786491,1,education,allowed,Large room
+2786492,2,education,allowed,Large room
+2786513,1,computer science,allowed,Medium room
+2786514,2,computer science,allowed,Medium room
+2786515,3,computer science,allowed,Medium room
+2786559,1,polotical,not allowed,not assigned
+2786560,2,polotical,not allowed,not assigned
+2786563,1,sociology,allowed,Small room
+2786564,2,sociology,allowed,Small room
+2518514,2,engg. & tech.,not allowed,not assigned
+2518516,4,engg. & tech.,not allowed,not assigned
+2518513,1,engg. & tech.,not allowed,not assigned
+2518515,3,engg. & tech.,not allowed,not assigned
+2786589,1,computer appplication,not allowed,not assigned
+2786590,2,computer appplication,not allowed,not assigned
+2786608,1,management,allowed,Medium room
+2786614,1,commerce,allowed,Auditorium
+2786615,2,commerce,allowed,Auditorium
+2786616,3,commerce,allowed,Auditorium
+2786633,1,computer application,allowed,Medium room
+2786634,2,computer application,allowed,Medium room
+2786635,3,computer application,allowed,Medium room
+2786659,1,bio chemistry,allowed,Small room
+2786660,2,bio chemistry,allowed,Small room
+2786661,3,bio chemistry,allowed,Small room
+2786665,1,buisiness administration,not allowed,not assigned
+2786666,2,buisiness administration,not allowed,not assigned
+2786667,3,buisiness administration,not allowed,not assigned
+2786671,1,corporate secaratoryship,not allowed,not assigned
+2786672,2,corporate secaratoryship,not allowed,not assigned
+2786673,3,corporate secaratoryship,not allowed,not assigned
+2786674,1,commerce,allowed,Auditorium
+2786675,2,commerce,allowed,Auditorium
+2786679,1,english,allowed,Large room
+2786680,2,english,allowed,Large room
+2786681,3,english,allowed,Large room
+2786698,1,ee,allowed,Small room
+2786699,2,ee,allowed,Small room
+2786700,3,ee,allowed,Small room
+2786701,4,ee,allowed,Small room
+2786708,1,ee,allowed,Small room
+2786709,2,ee,allowed,Small room
+2786710,3,ee,allowed,Small room
+2786720,1,digital communicati ons,not allowed,not assigned
+2786721,2,digital communicati ons,not allowed,not assigned
+2786722,1,mca,allowed,Small room
+2786723,2,mca,allowed,Small room
+2786724,3,mca,allowed,Small room
+2786742,1,computer,allowed,Medium room
+2786743,2,computer,allowed,Medium room
+2786744,1,commerce,allowed,Auditorium
+2786755,1,bio chemistry,allowed,Small room
+2786756,2,bio chemistry,allowed,Small room
+2786757,3,bio chemistry,allowed,Small room
+2786805,1,english,allowed,Large room
+2786841,1,commerce,allowed,Auditorium
+2786842,2,commerce,allowed,Auditorium
+2786843,3,commerce,allowed,Auditorium
+2786935,1,english,allowed,Large room
+2786936,2,english,allowed,Large room
+2786956,1,m.i.l,not allowed,not assigned
+2786957,2,m.i.l,not allowed,not assigned
+2786958,3,m.i.l,not allowed,not assigned
+2786965,1,history,allowed,Medium room
+2786966,2,history,allowed,Medium room
+2786967,3,history,allowed,Medium room
+2786982,1,tool & die making,not allowed,not assigned
+2786983,2,tool & die making,not allowed,not assigned
+2786984,3,tool & die making,not allowed,not assigned
+2786985,4,tool & die making,not allowed,not assigned
+2787044,1,chemistry,allowed,Medium room
+2787045,2,chemistry,allowed,Medium room
+2787046,3,chemistry,allowed,Medium room
+2787056,1,ai & as,not allowed,not assigned
+2787057,2,ai & as,not allowed,not assigned
+2787058,3,ai & as,not allowed,not assigned
+2787085,1,arts,allowed,Auditorium
+2787086,2,arts,allowed,Auditorium
+2787087,3,arts,allowed,Auditorium
+2787140,1,management,allowed,Medium room
+2787141,2,management,allowed,Medium room
+2787142,3,management,allowed,Medium room
+2787144,1,management,allowed,Medium room
+2787145,2,management,allowed,Medium room
+2787146,3,management,allowed,Medium room
+2786861,1,politics,not allowed,not assigned
+2786868,2,zoology,allowed,Medium room
+2786867,1,zoology,allowed,Medium room
+2786869,3,zoology,allowed,Medium room
+2786862,2,politics,not allowed,not assigned
+2786863,3,politics,not allowed,not assigned
+2787200,1,information technology,not allowed,not assigned
+2787201,2,information technology,allowed,Small room
+2787202,3,information technology,allowed,Small room
+2787221,1,coumputer science,allowed,Medium room
+2787222,1,coumputer science,allowed,Medium room
+2787223,2,coumputer science,allowed,Medium room
+2787224,2,coumputer science,allowed,Medium room
+2787225,3,coumputer science,allowed,Medium room
+2787226,3,coumputer science,allowed,Medium room
+2787241,1,physiotherapy,allowed,Small room
+2787242,2,physiotherapy,allowed,Small room
+2787243,3,physiotherapy,allowed,Small room
+2787244,4,physiotherapy,allowed,Small room
+2787245,5,physiotherapy,allowed,Small room
+2787250,1,science,allowed,Auditorium
+2787251,2,science,allowed,Auditorium
+2787252,3,science,allowed,Auditorium
+2784278,3,arts,allowed,Auditorium
+2784277,2,arts,allowed,Auditorium
+2784276,1,arts,allowed,Auditorium
+2549124,2,commerce,allowed,Auditorium
+2549127,2,arts,allowed,Auditorium
+2549125,3,commerce,allowed,Auditorium
+2549123,1,commerce,allowed,Auditorium
+2549126,1,arts,allowed,Auditorium
+2549128,3,arts,allowed,Auditorium
+2787400,1,mechanical engineering,allowed,Medium room
+2787401,2,mechanical engineering,allowed,Medium room
+2787402,3,mechanical engineering,allowed,Medium room
+2787443,1,commerce,allowed,Auditorium
+2787444,2,commerce,allowed,Auditorium
+2787549,1,commerce,allowed,Auditorium
+2787550,2,commerce,allowed,Auditorium
+2787557,1,sanskrit,allowed,Small room
+2787558,2,sanskrit,allowed,Small room
+2787559,3,sanskrit,allowed,Small room
+2787563,1,maths,allowed,Small room
+2787564,2,maths,allowed,Small room
+2787565,3,maths,allowed,Small room
+2787623,1,physics,allowed,Medium room
+2787624,2,physics,allowed,Medium room
+2787625,3,physics,allowed,Medium room
+2787650,1,mbbs,allowed,Medium room
+2787651,2,mbbs,allowed,Medium room
+2787652,3,mbbs,allowed,Medium room
+2787653,4,mbbs,allowed,Medium room
+2787654,5,mbbs,allowed,Medium room
+2787655,5,mbbs,allowed,Medium room
+2787699,1,science,allowed,Auditorium
+2787700,2,science,allowed,Auditorium
+2787701,3,science,allowed,Auditorium
+2787712,1,software computer science,not allowed,not assigned
+2787713,2,software computer science,not allowed,not assigned
+2787714,3,software computer science,not allowed,not assigned
+2787716,1,computer science,allowed,Medium room
+2787717,2,computer science,allowed,Medium room
+2787718,3,computer science,allowed,Medium room
+2787740,4,commerce,not allowed,not assigned
+2787749,1,commerce,allowed,Auditorium
+2787750,2,commerce,allowed,Auditorium
+2787751,1,bio-chemistry,allowed,Small room
+2787752,2,bio-chemistry,allowed,Small room
+2787776,1,chemistry,allowed,Medium room
+2787777,2,chemistry,allowed,Medium room
+2787778,3,chemistry,allowed,Medium room
+2787849,1,civil,allowed,Medium room
+2787850,2,civil,allowed,Medium room
+2787851,3,civil,allowed,Medium room
+2787893,1,diploma,not allowed,not assigned
+2787894,2,diploma,not allowed,not assigned
+2787895,3,diploma,not allowed,not assigned
+2787912,1,education,allowed,Large room
+2787913,2,education,allowed,Large room
+2652807,2,science,allowed,Auditorium
+2652801,1,industrial microbiology,not allowed,not assigned
+2652809,4,science,allowed,Auditorium
+2652802,2,industrial microbiology,not allowed,not assigned
+2652806,1,science,allowed,Auditorium
+2652803,3,industrial microbiology,not allowed,not assigned
+2652808,3,science,allowed,Auditorium
+2787917,1,computer engineering,allowed,Small room
+2787918,2,computer engineering,allowed,Small room
+2787919,3,computer engineering,allowed,Small room
+2787937,1,co-education,not allowed,not assigned
+2787938,2,co-education,not allowed,not assigned
+2787946,1,education,allowed,Large room
+2788059,1,pathology,not allowed,not assigned
+2788060,2,pathology,not allowed,not assigned
+2788061,3,pathology,not allowed,not assigned
+2788062,1,anatomy,allowed,Small room
+2788063,2,anatomy,allowed,Small room
+2788064,3,anatomy,allowed,Small room
+2788111,1,nursing,allowed,Medium room
+2788112,2,nursing,allowed,Medium room
+2788114,1,nursing,allowed,Medium room
+2788115,2,nursing,allowed,Medium room
+2788124,1,m.com,not allowed,not assigned
+2788125,2,m.com,not allowed,not assigned
+2788191,1,physics,allowed,Medium room
+2788192,2,physics,allowed,Medium room
+2788193,3,physics,allowed,Medium room
+2788218,1,history,allowed,Medium room
+2788219,2,history,allowed,Medium room
+2788220,3,history,allowed,Medium room
+2788221,1,maithili,allowed,Small room
+2788222,2,maithili,allowed,Small room
+2788223,3,maithili,allowed,Small room
+2713258,2,b.com.(gen.e/m),not allowed,not assigned
+2713257,1,b.com.(gen.e/m),not allowed,not assigned
+2713259,3,b.com.(gen.e/m),not allowed,not assigned
+2788292,1,all subjects,not allowed,not assigned
+2788293,2,all subjects,not allowed,not assigned
+2788294,3,all subjects,not allowed,not assigned
+2785859,3,electronics and communication engineering,allowed,Small room
+2785878,3,applied sc.,not allowed,not assigned
+2785862,2,computer science and engineering,allowed,Small room
+2785877,2,applied sc.,not allowed,not assigned
+2785860,4,electronics and communication engineering,allowed,Small room
+2785858,2,electronics and communication engineering,allowed,Small room
+2785879,4,applied sc.,not allowed,not assigned
+2785861,1,computer science and engineering,allowed,Small room
+2785863,3,computer science and engineering,allowed,Small room
+2785876,1,applied sc.,not allowed,not assigned
+2785857,1,electronics and communication engineering,allowed,Small room
+2785864,4,computer science and engineering,allowed,Small room
+2788365,1,chemistry,allowed,Medium room
+2788366,2,chemistry,allowed,Medium room
+2788367,3,chemistry,allowed,Medium room
+2788380,1,electronics,allowed,Small room
+2788381,2,electronics,allowed,Small room
+2788382,3,electronics,allowed,Small room
+2788383,1,b.com (p),not allowed,not assigned
+2788384,2,b.com (p),not allowed,not assigned
+2788385,3,b.com (p),not allowed,not assigned
+2788392,1,arts,allowed,Auditorium
+2788393,2,arts,allowed,Auditorium
+2788394,3,arts,allowed,Auditorium
+2788400,1,computer application,allowed,Medium room
+2788406,1,comp science,not allowed,not assigned
+2788407,2,comp science,not allowed,not assigned
+2788408,3,comp science,not allowed,not assigned
+2788431,1,bbi,not allowed,not assigned
+2788432,2,bbi,not allowed,not assigned
+2788433,3,bbi,not allowed,not assigned
+2788434,1,commerce,allowed,Auditorium
+2788435,2,commerce,allowed,Auditorium
+2788436,3,commerce,allowed,Auditorium
+2788523,1,vocational,not allowed,not assigned
+2788524,2,vocational,not allowed,not assigned
+2788525,3,vocational,not allowed,not assigned
+2788526,1,c bc bt,not allowed,not assigned
+2788527,2,c bc bt,not allowed,not assigned
+2788528,3,c bc bt,not allowed,not assigned
+2788575,1,english,allowed,Large room
+2788576,2,english,allowed,Large room
+2788585,1,science,allowed,Auditorium
+2788586,2,science,allowed,Auditorium
+2788587,3,science,allowed,Auditorium
+2788637,1,ee,allowed,Small room
+2788638,2,ee,allowed,Small room
+2788639,3,ee,allowed,Small room
+2788657,1,social work,not allowed,not assigned
+2788658,2,social work,not allowed,not assigned
+2635245,3,english,allowed,Large room
+2635243,1,english,allowed,Large room
+2635244,2,english,allowed,Large room
+2788809,1,commerce,allowed,Auditorium
+2788810,2,commerce,allowed,Auditorium
+2788811,3,commerce,allowed,Auditorium
+2788816,1,biological sciences,not allowed,not assigned
+2788817,1,social studies,not allowed,not assigned
+2788821,1,science,allowed,Auditorium
+2788822,2,science,allowed,Auditorium
+2788823,3,science,allowed,Auditorium
+2788836,1,arts,allowed,Auditorium
+2788837,2,arts,allowed,Auditorium
+2788838,3,arts,allowed,Auditorium
+2788959,1,political sc,not allowed,not assigned
+2788960,2,political sc,not allowed,not assigned
+2788973,1,economics,allowed,Medium room
+2788974,2,economics,allowed,Medium room
+2789059,1,arts,allowed,Auditorium
+2789060,2,arts,allowed,Auditorium
+2789061,3,arts,allowed,Auditorium
+2789081,1,science,allowed,Auditorium
+2789082,2,science,allowed,Auditorium
+2789083,3,science,allowed,Auditorium
+2789142,1,civil,allowed,Medium room
+2789143,2,civil,allowed,Medium room
+2789144,3,civil,allowed,Medium room
+2789168,1,economics,allowed,Medium room
+2789169,2,economics,allowed,Medium room
+2789190,1,english,allowed,Large room
+2789191,2,english,allowed,Large room
+2789192,3,english,allowed,Large room
+2789217,1,computer science,allowed,Medium room
+2789218,2,computer science,allowed,Medium room
+2789219,3,computer science,allowed,Medium room
+2789231,1,botany,allowed,Medium room
+2789232,1,botany,allowed,Medium room
+2789233,2,botany,allowed,Medium room
+2789267,1,information technology,not allowed,not assigned
+2789268,2,information technology,allowed,Small room
+2789269,3,information technology,allowed,Small room
+2789354,1,computer,allowed,Medium room
+2789355,2,computer,allowed,Medium room
+2789356,3,computer,allowed,Medium room
+2789366,1,co-operation,not allowed,not assigned
+2789367,2,co-operation,not allowed,not assigned
+2789368,3,co-operation,not allowed,not assigned
+2789425,1,mechanical engineering,allowed,Medium room
+2789426,2,mechanical engineering,allowed,Medium room
+2789427,3,mechanical engineering,allowed,Medium room
+2789428,4,mechanical engineering,allowed,Medium room
+2789449,1,building construction and mangement,allowed,Small room
+2789450,2,building construction and mangement,allowed,Small room
+2789451,3,building construction and mangement,allowed,Small room
+2789452,4,building construction and mangement,allowed,Small room
+2789453,5,building construction and mangement,allowed,Small room
+2789454,1,interior design,allowed,Small room
+2789455,2,interior design,allowed,Small room
+2789456,3,interior design,allowed,Small room
+2789457,4,interior design,allowed,Small room
+2789458,5,interior design,allowed,Small room
+2789489,4,law,allowed,Medium room
+2789496,1,engineering,allowed,Medium room
+2789497,2,engineering,allowed,Medium room
+2789503,1,engineering,allowed,Medium room
+2789504,2,engineering,allowed,Medium room
+2789505,3,engineering,allowed,Medium room
+2789506,4,engineering,allowed,Medium room
+2789524,4,engineering,allowed,Medium room
+2789546,4,computer applications,allowed,Small room
+2789547,1,computer applications,allowed,Small room
+2789548,2,computer applications,allowed,Small room
+2789549,3,computer applications,allowed,Small room
+2789551,4,sciences,not allowed,not assigned
+2789650,1,jain darshan,not allowed,not assigned
+2789651,2,jain darshan,not allowed,not assigned
+2789652,4,jain darshan,not allowed,not assigned
+2789660,1,dharmashastra,not allowed,not assigned
+2789661,2,dharmashastra,not allowed,not assigned
+2730815,1,marathi,allowed,Small room
+2730819,2,marathi,allowed,Small room
+2730818,1,marathi,allowed,Small room
+2730816,2,marathi,allowed,Small room
+2730817,3,marathi,allowed,Small room
+2789664,1,management,allowed,Medium room
+2789665,2,management,allowed,Medium room
+2789666,3,management,allowed,Medium room
+2789701,1,computational mathematics,not allowed,not assigned
+2789702,2,computational mathematics,not allowed,not assigned
+2789704,1,master of computer application,not allowed,not assigned
+2789705,2,master of computer application,not allowed,not assigned
+2789706,3,master of computer application,not allowed,not assigned
+2789712,1,power & energy systems,not allowed,not assigned
+2789713,2,power & energy systems,not allowed,not assigned
+2789714,4,electrical & electronics engineering,allowed,Small room
+2789724,1,computer engineering,allowed,Small room
+2789725,2,computer engineering,allowed,Small room
+2789726,3,computer engineering,allowed,Small room
+2789727,4,computer engineering,allowed,Small room
+2789733,1,electronics & communication engg,allowed,Small room
+2789734,2,electronics & communication engg,allowed,Small room
+2789735,3,electronics & communication engg,allowed,Small room
+2789736,4,electronics & communication engg,allowed,Small room
+2789739,4,school of management,not allowed,not assigned
+2789753,1,information technology,not allowed,not assigned
+2789754,2,information technology,allowed,Small room
+2789755,3,information technology,allowed,Small room
+2789756,4,information technology,allowed,Small room
+2789783,1,structural engineering,not allowed,not assigned
+2789784,2,structural engineering,not allowed,not assigned
+2789787,1,transportation engineering,not allowed,not assigned
+2789788,2,transportation engineering,not allowed,not assigned
+2789789,1,construction technology and management,not allowed,not assigned
+2789790,2,construction technology and management,not allowed,not assigned
+2777411,3,commerce,allowed,Auditorium
+2777410,2,commerce,allowed,Auditorium
+2777409,1,commerce,allowed,Auditorium
+2789848,1,compulsory,not allowed,not assigned
+2789849,2,compulsory,not allowed,not assigned
+2789850,3,compulsory,not allowed,not assigned
+2789907,1,nursing,allowed,Medium room
+2789908,2,nursing,allowed,Medium room
+2789121,1,marathi,allowed,Small room
+2789122,2,marathi,allowed,Small room
+2789970,1,computer,allowed,Medium room
+2789245,2,management,allowed,Medium room
+2789244,1,management,allowed,Medium room
+2789246,3,management,allowed,Medium room
+2790085,1,education,allowed,Large room
+2790086,2,education,allowed,Large room
+2790104,1,electronics & comm engg,not allowed,not assigned
+2790105,2,electronics & comm engg,not allowed,not assigned
+2790106,3,electronics & comm engg,not allowed,not assigned
+2790115,1,finance,allowed,Small room
+2790116,2,finance,allowed,Small room
+2790117,3,finance,allowed,Small room
+2790167,1,commerce,allowed,Auditorium
+2790168,2,commerce,allowed,Auditorium
+2790169,3,commerce,allowed,Auditorium
+2419419,3,b.com.,not allowed,not assigned
+2419418,2,b.com.,not allowed,not assigned
+2419417,1,b.com.,not allowed,not assigned
+2790289,1,electrical engineering,allowed,Small room
+2790290,2,electrical engineering,allowed,Small room
+2790291,3,electrical engineering,allowed,Small room
+2790384,1,general,allowed,Medium room
+2790385,2,general,allowed,Medium room
+2790396,1,i.t,not allowed,not assigned
+2790397,2,i.t,not allowed,not assigned
+2790398,3,i.t,not allowed,not assigned
+2790417,1,ca,allowed,Small room
+2790418,2,ca,allowed,Small room
+2790419,3,ca,allowed,Small room
+2790434,1,mechanical related subjects,not allowed,not assigned
+2790435,2,mechanical related subjects,not allowed,not assigned
+2790436,3,mechanical related subjects,not allowed,not assigned
+2790437,4,mechanical related subjects,not allowed,not assigned
+2790454,1,information subjects,not allowed,not assigned
+2790455,2,information subjects,not allowed,not assigned
+2790456,3,information subjects,not allowed,not assigned
+2790457,4,information subjects,not allowed,not assigned
+2790463,1,science,allowed,Auditorium
+2790464,2,science,allowed,Auditorium
+2790465,3,science,allowed,Auditorium
+2790478,1,arts,allowed,Auditorium
+2790479,2,arts,allowed,Auditorium
+2790480,3,arts,allowed,Auditorium
+2790499,1,dental,allowed,Small room
+2790500,2,dental,allowed,Small room
+2790501,3,dental,allowed,Small room
+2790502,4,dental,allowed,Small room
+2790503,5,dental,allowed,Small room
+2790519,1,ece,allowed,Small room
+2790520,2,ece,allowed,Small room
+2790521,3,ece,allowed,Small room
+2790522,4,ece,allowed,Small room
+2790539,1,sahitya,not allowed,not assigned
+2790540,2,sahitya,not allowed,not assigned
+2789391,3,management,allowed,Medium room
+2789389,1,management,allowed,Medium room
+2789390,2,management,allowed,Medium room
+2790594,1,chmistry,not allowed,not assigned
+2790595,2,chmistry,not allowed,not assigned
+2790598,1,bca,not allowed,not assigned
+2790599,2,bca,not allowed,not assigned
+2790600,3,bca,not allowed,not assigned
+2790572,1,zoology,allowed,Medium room
+2790573,2,zoology,allowed,Medium room
+2790657,4,education,allowed,Large room
+2790655,2,education,allowed,Large room
+2790653,3,community medicine,not allowed,not assigned
+2790651,1,community medicine,not allowed,not assigned
+2790652,2,community medicine,not allowed,not assigned
+2790654,1,education,allowed,Large room
+2790658,5,education,allowed,Large room
+2790649,2,anatomy,allowed,Small room
+2790656,3,education,allowed,Large room
+2790648,1,anatomy,allowed,Small room
+2790650,3,anatomy,allowed,Small room
+2790666,1,arts/commerce/science/maths,not allowed,not assigned
+2790667,2,arts/commerce/science/maths,not allowed,not assigned
+2790677,1,management,allowed,Medium room
+2790678,2,management,allowed,Medium room
+2790679,3,management,allowed,Medium room
+2790718,1,mechanical,allowed,Medium room
+2790719,2,mechanical,allowed,Medium room
+2790720,3,mechanical,allowed,Medium room
+2790721,4,mechanical,allowed,Medium room
+2789348,1,management,allowed,Medium room
+2789335,4,technical,allowed,Small room
+2789341,2,technical,allowed,Small room
+2789342,3,technical,allowed,Small room
+2789334,3,technical,allowed,Small room
+2789349,2,management,allowed,Medium room
+2789343,4,technical,allowed,Small room
+2789333,2,technical,allowed,Small room
+2789340,1,technical,allowed,Small room
+2789332,1,technical,allowed,Small room
+2790839,1,civil engineering,allowed,Medium room
+2790840,2,civil engineering,allowed,Medium room
+2790841,3,civil engineering,allowed,Medium room
+2790845,1,education,allowed,Large room
+2790846,2,education,allowed,Large room
+2790870,1,commerce,allowed,Auditorium
+2790871,2,commerce,allowed,Auditorium
+2790874,1,arts,allowed,Auditorium
+2790875,2,arts,allowed,Auditorium
+2790876,3,arts,allowed,Auditorium
+2790886,1,science,allowed,Auditorium
+2790887,2,science,allowed,Auditorium
+2790888,3,science,allowed,Auditorium
+2790889,1,education,allowed,Large room
+2790890,2,education,allowed,Large room
+2790904,4,botany,allowed,Medium room
+2790909,1,biochemistry,not allowed,not assigned
+2790910,2,biochemistry,not allowed,not assigned
+2791033,1,mathematics,allowed,Medium room
+2791034,2,mathematics,allowed,Medium room
+2791168,1,ug,allowed,Small room
+2791169,2,ug,allowed,Small room
+2791170,3,ug,allowed,Small room
+2791171,4,ug,allowed,Small room
+2791192,1,bzc,allowed,Small room
+2791193,2,bzc,allowed,Small room
+2791194,3,bzc,allowed,Small room
+2791212,1,anaesthesiology,not allowed,not assigned
+2791213,2,anaesthesiology,not allowed,not assigned
+2791214,3,anaesthesiology,not allowed,not assigned
+2791250,1,business administration,allowed,Small room
+2791251,2,business administration,allowed,Small room
+2791252,3,business administration,allowed,Small room
+2791288,1,commerce,allowed,Auditorium
+2791289,2,commerce,allowed,Auditorium
+2791290,3,commerce,allowed,Auditorium
+2791359,1,science,allowed,Auditorium
+2791360,2,science,allowed,Auditorium
+2791361,3,science,allowed,Auditorium
+2791409,1,b.sc-m.p.c,not allowed,not assigned
+2791410,2,b.sc-m.p.c,not allowed,not assigned
+2791411,3,b.sc-m.p.c,not allowed,not assigned
+2791441,1,education,allowed,Large room
+2791442,2,education,allowed,Large room
+2791443,1,botany,allowed,Medium room
+2791444,2,botany,allowed,Medium room
+2791445,3,botany,allowed,Medium room
+2791452,1,pali,allowed,Small room
+2791453,2,pali,allowed,Small room
+2791454,3,pali,allowed,Small room
+2791568,1,science(bzc),not allowed,not assigned
+2791569,2,science(bzc),not allowed,not assigned
+2791570,3,science(bzc),not allowed,not assigned
+2791589,1,science,allowed,Auditorium
+2791590,2,science,allowed,Auditorium
+2791591,3,science,allowed,Auditorium
+2791617,1,arts,allowed,Auditorium
+2791618,2,arts,allowed,Auditorium
+2791619,3,arts,allowed,Auditorium
+2791654,1,education,allowed,Large room
+2791655,2,education,allowed,Large room
+2791678,1,arts,allowed,Auditorium
+2791679,2,arts,allowed,Auditorium
+2791680,3,arts,allowed,Auditorium
+2791726,1,mechanical,allowed,Medium room
+2791727,2,mechanical,allowed,Medium room
+2791728,3,mechanical,allowed,Medium room
+2791741,1,commerce,allowed,Auditorium
+2791742,2,commerce,allowed,Auditorium
+2791743,3,commerce,allowed,Auditorium
+2617028,3,commerce,allowed,Auditorium
+2617027,2,commerce,allowed,Auditorium
+2617026,1,commerce,allowed,Auditorium
+2791858,1,law,allowed,Medium room
+2791859,2,law,allowed,Medium room
+2791860,3,law,allowed,Medium room
+2791861,1,3 year ll.b course,not allowed,not assigned
+2791862,2,3 year ll.b course,not allowed,not assigned
+2791863,3,3 year ll.b course,not allowed,not assigned
+2791877,1,education,allowed,Large room
+2792023,4,arthroscopy,not allowed,not assigned
+2792027,1,coumputer science,allowed,Medium room
+2792028,2,coumputer science,allowed,Medium room
+2792029,3,coumputer science,allowed,Medium room
+2622504,1,nano science & technology,not allowed,not assigned
+2622496,2,aero dynamics,not allowed,not assigned
+2622464,4,chemical engineering,allowed,Medium room
+2622462,2,chemical engineering,allowed,Medium room
+2622495,1,aero dynamics,not allowed,not assigned
+2622469,1,chemical engineering,allowed,Medium room
+2622438,2,scientific computing,not allowed,not assigned
+2622470,2,chemical engineering,allowed,Medium room
+2792086,4,science,allowed,Auditorium
+2622463,3,chemical engineering,allowed,Medium room
+2792127,1,information security,not allowed,not assigned
+2622461,1,chemical engineering,allowed,Medium room
+2622505,2,nano science & technology,not allowed,not assigned
+2792136,2,information security,not allowed,not assigned
+2622437,1,scientific computing,not allowed,not assigned
+2792200,1,computer,allowed,Medium room
+2792201,2,computer,allowed,Medium room
+2792202,3,computer,allowed,Medium room
+2792234,1,science,allowed,Auditorium
+2792235,2,science,allowed,Auditorium
+2792236,3,science,allowed,Auditorium
+2792237,4,science,allowed,Auditorium
+2792251,1,computer science (lateral entry),not allowed,not assigned
+2792252,1,management,allowed,Medium room
+2792253,2,management,allowed,Medium room
+2792254,3,management,allowed,Medium room
+2792304,1,business administration,allowed,Small room
+2792305,2,business administration,allowed,Small room
+2792306,3,business administration,allowed,Small room
+2792336,1,bcom computer,not allowed,not assigned
+2792337,2,bcom computer,not allowed,not assigned
+2792338,3,bcom computer,not allowed,not assigned
+2792342,1,bcom finance and taxation,not allowed,not assigned
+2792343,2,bcom finance and taxation,not allowed,not assigned
+2792344,3,bcom finance and taxation,not allowed,not assigned
+2792348,1,bcom marketing,not allowed,not assigned
+2792349,2,bcom marketing,not allowed,not assigned
+2792350,3,bcom marketing,not allowed,not assigned
+2792377,1,arts,allowed,Auditorium
+2792378,2,arts,allowed,Auditorium
+2792379,3,arts,allowed,Auditorium
+2792380,1,mpcs,allowed,Small room
+2792381,2,mpcs,allowed,Small room
+2792382,3,mpcs,allowed,Small room
+2792464,1,science,allowed,Auditorium
+2792465,2,science,allowed,Auditorium
+2792466,3,science,allowed,Auditorium
+2792540,1,history,allowed,Medium room
+2792541,2,history,allowed,Medium room
+2792542,3,history,allowed,Medium room
+2792543,1,commerce,allowed,Auditorium
+2792544,2,commerce,allowed,Auditorium
+2792545,3,commerce,allowed,Auditorium
+2724614,1,education,allowed,Large room
+2724615,2,education,allowed,Large room
+2792625,1,bcom (general),not allowed,not assigned
+2792626,2,bcom (general),not allowed,not assigned
+2792627,3,bcom (general),not allowed,not assigned
+2792662,1,comp(em),not allowed,not assigned
+2792663,2,comp(em),not allowed,not assigned
+2792664,3,comp(em),not allowed,not assigned
+2792677,1,bzc,allowed,Small room
+2792678,2,bzc,allowed,Small room
+2792679,3,bzc,allowed,Small room
+2792683,1,mecs,allowed,Small room
+2792684,2,mecs,allowed,Small room
+2792685,3,mecs,allowed,Small room
+2792692,1,btzc,not allowed,not assigned
+2792693,2,btzc,not allowed,not assigned
+2792694,3,btzc,not allowed,not assigned
+2792703,1,mech,not allowed,not assigned
+2792705,3,mech,not allowed,not assigned
+2792704,2,mech,not allowed,not assigned
+2792706,4,mech,not allowed,not assigned
+2792742,1,pg.diploma,not allowed,not assigned
+2789808,1,mecs,allowed,Small room
+2789809,2,mecs,allowed,Small room
+2789810,3,mecs,allowed,Small room
+2792774,1,commerce,allowed,Auditorium
+2792775,2,commerce,allowed,Auditorium
+2792776,3,commerce,allowed,Auditorium
+2792807,1,english,allowed,Large room
+2792810,1,physical science,not allowed,not assigned
+2792902,1,eep,not allowed,not assigned
+2792903,2,eep,not allowed,not assigned
+2792904,3,eep,not allowed,not assigned
+2792931,1,nursing,allowed,Medium room
+2792932,2,nursing,allowed,Medium room
+2792933,3,nursing,allowed,Medium room
+2792934,4,nursing,allowed,Medium room
+2792943,1,physical science,not allowed,not assigned
+2792945,1,arts,allowed,Auditorium
+2792946,2,arts,allowed,Auditorium
+2792947,3,arts,allowed,Auditorium
+2792948,1,commerce,allowed,Auditorium
+2792949,2,commerce,allowed,Auditorium
+2792950,3,commerce,allowed,Auditorium
+2792963,1,cbz,allowed,Small room
+2792964,2,cbz,allowed,Small room
+2792965,3,cbz,allowed,Small room
+2792969,1,computer,allowed,Medium room
+2792970,2,computer,allowed,Medium room
+2792971,3,computer,allowed,Medium room
+2792978,1,mpc,allowed,Small room
+2792979,2,mpc,allowed,Small room
+2792980,3,mpc,allowed,Small room
+2793014,1,commerce,allowed,Auditorium
+2793015,2,commerce,allowed,Auditorium
+2793016,3,commerce,allowed,Auditorium
+2793035,1,education,allowed,Large room
+2793048,1,computer engineering,allowed,Small room
+2793049,2,computer engineering,allowed,Small room
+2793050,3,computer engineering,allowed,Small room
+2793076,1,economics,allowed,Medium room
+2793126,1,computer applications,allowed,Small room
+2793127,2,computer applications,allowed,Small room
+2793128,3,computer applications,allowed,Small room
+2793163,4,coumputer science,allowed,Medium room
+2793177,1,computer science & engineering,allowed,Small room
+2793178,2,computer science & engineering,allowed,Small room
+2793179,3,computer science & engineering,allowed,Small room
+2793180,4,computer science & engineering,allowed,Small room
+2793181,5,computer science & engineering,allowed,Small room
+2793186,4,coumputer science,allowed,Medium room
+2793236,1,dmrd,not allowed,not assigned
+2793237,2,dmrd,not allowed,not assigned
+2793238,1,tb & chest,not allowed,not assigned
+2793239,2,tb & chest,not allowed,not assigned
+2793240,3,tb & chest,not allowed,not assigned
+2793247,1,medicine,not allowed,not assigned
+2793248,2,medicine,not allowed,not assigned
+2793249,3,medicine,not allowed,not assigned
+2793354,1,electrical & electronics engineering,allowed,Small room
+2793355,2,electrical & electronics engineering,allowed,Small room
+2793356,3,electrical & electronics engineering,allowed,Small room
+2793357,1,civil engineering,allowed,Medium room
+2793358,2,civil engineering,allowed,Medium room
+2793359,3,civil engineering,allowed,Medium room
+2793366,4,sahitya,not allowed,not assigned
+2708388,3,arts,allowed,Auditorium
+2708371,3,hons.,not allowed,not assigned
+2708387,2,arts,allowed,Auditorium
+2708370,2,hons.,not allowed,not assigned
+2708369,1,hons.,not allowed,not assigned
+2708386,1,arts,allowed,Auditorium
+2793392,1,instrumentation engineering,not allowed,not assigned
+2793393,2,instrumentation engineering,not allowed,not assigned
+2793394,3,instrumentation engineering,not allowed,not assigned
+2793395,4,instrumentation engineering,not allowed,not assigned
+2793396,1,mba,allowed,Small room
+2793397,2,mba,allowed,Small room
+2793472,1,commerce,allowed,Auditorium
+2793473,2,commerce,allowed,Auditorium
+2793474,3,commerce,allowed,Auditorium
+2793532,1,commerce,allowed,Auditorium
+2793533,2,commerce,allowed,Auditorium
+2793534,3,commerce,allowed,Auditorium
+2793504,3,civil,allowed,Medium room
+2793502,1,civil,allowed,Medium room
+2793503,2,civil,allowed,Medium room
+2793505,4,civil,allowed,Medium room
+2793600,1,cmmerce,not allowed,not assigned
+2793601,2,cmmerce,not allowed,not assigned
+2793602,3,cmmerce,not allowed,not assigned
+2793651,1,library and information,not allowed,not assigned
+2793733,1,science,allowed,Auditorium
+2793734,2,science,allowed,Auditorium
+2793735,3,science,allowed,Auditorium
+2793751,1,cad/cam,not allowed,not assigned
+2793752,2,cad/cam,not allowed,not assigned
+2793774,1,mechanical engineering,allowed,Medium room
+2793775,2,mechanical engineering,allowed,Medium room
+2793776,3,mechanical engineering,allowed,Medium room
+2793777,4,mechanical engineering,allowed,Medium room
+2793789,1,electrical and electronics engineering,not allowed,not assigned
+2793790,2,electrical and electronics engineering,not allowed,not assigned
+2793791,3,electrical and electronics engineering,not allowed,not assigned
+2793792,4,electrical and electronics engineering,not allowed,not assigned
+2793801,1,vlsi design and signal processing,not allowed,not assigned
+2793802,2,vlsi design and signal processing,not allowed,not assigned
+2793814,1,computer science,allowed,Medium room
+2793815,2,computer science,allowed,Medium room
+2793816,3,computer science,allowed,Medium room
+2793826,1,physical education,not allowed,not assigned
+2793827,2,physical education,not allowed,not assigned
+2793828,1,arts,allowed,Auditorium
+2793829,2,arts,allowed,Auditorium
+2793830,3,arts,allowed,Auditorium
+2793859,1,history,allowed,Medium room
+2793860,2,history,allowed,Medium room
+2793861,3,history,allowed,Medium room
+2793930,1,psychology,allowed,Small room
+2793931,2,psychology,allowed,Small room
+2793932,3,psychology,allowed,Small room
+2793939,1,bengali,allowed,Small room
+2793940,2,bengali,allowed,Small room
+2793941,3,bengali,allowed,Small room
+2793951,1,economics,allowed,Medium room
+2793952,2,economics,allowed,Medium room
+2793953,3,economics,allowed,Medium room
+2793972,1,mathematics,allowed,Medium room
+2793973,2,mathematics,allowed,Medium room
+2793974,3,mathematics,allowed,Medium room
+2794032,1,english,allowed,Large room
+2794033,2,english,allowed,Large room
+2794034,3,english,allowed,Large room
+2794047,1,economics,allowed,Medium room
+2794048,2,economics,allowed,Medium room
+2794049,3,economics,allowed,Medium room
+2794065,1,arts,allowed,Auditorium
+2794066,2,arts,allowed,Auditorium
+2794067,3,arts,allowed,Auditorium
+2794101,1,gandhian thought,not allowed,not assigned
+2794102,2,gandhian thought,not allowed,not assigned
+2794103,3,gandhian thought,not allowed,not assigned
+2794119,1,english,allowed,Large room
+2794120,2,english,allowed,Large room
+2794121,3,english,allowed,Large room
+2794137,1,botany,allowed,Medium room
+2794138,2,botany,allowed,Medium room
+2794139,3,botany,allowed,Medium room
+2794168,1,arts,allowed,Auditorium
+2794169,2,arts,allowed,Auditorium
+2794170,3,arts,allowed,Auditorium
+2794314,1,chemical,not allowed,not assigned
+2794315,2,chemical,not allowed,not assigned
+2794316,3,chemical,not allowed,not assigned
+2794317,4,chemical,not allowed,not assigned
+2794330,1,communication and signal processing,not allowed,not assigned
+2794331,2,communication and signal processing,not allowed,not assigned
+2794338,1,mechanical,allowed,Medium room
+2794339,2,mechanical,allowed,Medium room
+2794340,3,mechanical,allowed,Medium room
+2794341,4,mechanical,allowed,Medium room
+2794368,1,ug,allowed,Small room
+2794369,2,ug,allowed,Small room
+2794370,3,ug,allowed,Small room
+2794403,1,law,allowed,Medium room
+2794404,2,law,allowed,Medium room
+2794405,3,law,allowed,Medium room
+2794406,4,law,allowed,Medium room
+2794407,5,law,allowed,Medium room
+2794425,1,vlsi,not allowed,not assigned
+2794426,2,vlsi,not allowed,not assigned
+2794536,1,computer,allowed,Medium room
+2794537,2,computer,allowed,Medium room
+2794538,3,computer,allowed,Medium room
+2794539,4,computer,allowed,Medium room
+2794548,1,civil,allowed,Medium room
+2794549,2,civil,allowed,Medium room
+2794550,3,civil,allowed,Medium room
+2794551,4,civil,allowed,Medium room
+2794571,1,arts,allowed,Auditorium
+2794572,2,arts,allowed,Auditorium
+2794573,3,arts,allowed,Auditorium
+2794624,1,chemistry,allowed,Medium room
+2794625,2,chemistry,allowed,Medium room
+2794626,1,zoology,allowed,Medium room
+2794627,2,zoology,allowed,Medium room
+2794719,1,spl. education,not allowed,not assigned
+2794720,2,spl. education,not allowed,not assigned
+2794721,1,special education (h.i.),not allowed,not assigned
+2794722,2,special education (h.i.),not allowed,not assigned
+2794739,1,electrical & electronics engineering,allowed,Small room
+2794740,2,electrical & electronics engineering,allowed,Small room
+2794741,3,electrical & electronics engineering,allowed,Small room
+2794742,4,electrical & electronics engineering,allowed,Small room
+2794755,1,education,allowed,Large room
+2794756,2,education,allowed,Large room
+2794762,1,hindi,allowed,Small room
+2794763,2,hindi,allowed,Small room
+2794764,3,hindi,allowed,Small room
+2794790,4,jmc,not allowed,not assigned
+2794792,4,sanskrit,allowed,Small room
+2794795,4,hindi,allowed,Small room
+2794801,4,music,allowed,Small room
+2794830,1,economics,allowed,Medium room
+2794831,2,economics,allowed,Medium room
+2794842,1,political science,allowed,Small room
+2794843,2,political science,allowed,Small room
+2794876,1,mba,allowed,Small room
+2794877,2,mba,allowed,Small room
+2794927,3,arts,allowed,Auditorium
+2794925,1,arts,allowed,Auditorium
+2794926,2,arts,allowed,Auditorium
+2794932,1,pharmaceutics,not allowed,not assigned
+2794933,2,pharmaceutics,not allowed,not assigned
+2794947,1,computers,not allowed,not assigned
+2794948,2,computers,not allowed,not assigned
+2794949,3,computers,not allowed,not assigned
+2795042,1,mpharmacypa,not allowed,not assigned
+2795043,2,mpharmacypa,not allowed,not assigned
+2795044,1,mpharmacy,not allowed,not assigned
+2795045,2,mpharmacy,not allowed,not assigned
+2795049,1,travel tourism & hospitality management,not allowed,not assigned
+2795050,2,travel tourism & hospitality management,not allowed,not assigned
+2795051,3,travel tourism & hospitality management,not allowed,not assigned
+2788919,1,commerce,allowed,Auditorium
+2788921,3,commerce,allowed,Auditorium
+2788920,2,commerce,allowed,Auditorium
+2795074,1,library & information & science,not allowed,not assigned
+2795092,1,philosophy,allowed,Small room
+2795093,2,philosophy,allowed,Small room
+2795094,3,philosophy,allowed,Small room
+2795109,1,saskrit,not allowed,not assigned
+2795110,2,saskrit,not allowed,not assigned
+2795111,3,saskrit,not allowed,not assigned
+2795124,1,chemistry,allowed,Medium room
+2795125,2,chemistry,allowed,Medium room
+2795126,3,chemistry,allowed,Medium room
+2795133,1,pol-science,not allowed,not assigned
+2795134,2,pol-science,not allowed,not assigned
+2795135,3,pol-science,not allowed,not assigned
+2795182,1,psychology,allowed,Small room
+2795183,2,psychology,allowed,Small room
+2795184,3,psychology,allowed,Small room
+2795197,1,electrical,allowed,Medium room
+2795198,1,electrical,allowed,Medium room
+2795199,2,electrical,allowed,Medium room
+2795200,2,electrical,allowed,Medium room
+2795201,3,electrical,allowed,Medium room
+2795202,3,electrical,allowed,Medium room
+2795229,1,education,allowed,Large room
+2795242,1,nursing,allowed,Medium room
+2795243,2,nursing,allowed,Medium room
+2795244,3,nursing,allowed,Medium room
+2795296,1,medical surgical nursing,not allowed,not assigned
+2795297,2,medical surgical nursing,not allowed,not assigned
+2795308,1,mechanical,allowed,Medium room
+2795309,2,mechanical,allowed,Medium room
+2795310,3,mechanical,allowed,Medium room
+2795311,4,mechanical,allowed,Medium room
+2795323,1,civil engg,not allowed,not assigned
+2795324,2,civil engg,not allowed,not assigned
+2795325,3,civil engg,not allowed,not assigned
+2795326,4,civil engg,not allowed,not assigned
+2795334,1,btc-2012,not allowed,not assigned
+2795335,2,btc-2012,not allowed,not assigned
+2795352,1,arts,allowed,Auditorium
+2795353,1,arts,allowed,Auditorium
+2795354,2,arts,allowed,Auditorium
+2795355,2,arts,allowed,Auditorium
+2795356,3,arts,allowed,Auditorium
+2795357,3,arts,allowed,Auditorium
+2795364,1,science,allowed,Auditorium
+2795365,1,science,allowed,Auditorium
+2795366,2,science,allowed,Auditorium
+2795367,2,science,allowed,Auditorium
+2795368,3,science,allowed,Auditorium
+2795369,3,science,allowed,Auditorium
+2795498,1,fashion communication,not allowed,not assigned
+2795499,2,fashion communication,not allowed,not assigned
+2795500,3,fashion communication,not allowed,not assigned
+2795501,4,fashion communication,not allowed,not assigned
+2795583,1,information technology,not allowed,not assigned
+2795584,2,information technology,allowed,Small room
+2795585,3,information technology,allowed,Small room
+2795586,4,information technology,allowed,Small room
+2795594,1,data science,not allowed,not assigned
+2795595,2,data science,not allowed,not assigned
+2795608,4,humanities and social science (h,not allowed,not assigned
+2795616,1,electronics and communication engineering,allowed,Small room
+2795617,2,electronics and communication engineering,allowed,Small room
+2795634,4,mechanical engineering,allowed,Medium room
+2795685,1,arts,allowed,Auditorium
+2795686,2,arts,allowed,Auditorium
+2795687,3,arts,allowed,Auditorium
+2795703,1,arts,allowed,Auditorium
+2795704,2,arts,allowed,Auditorium
+2795705,3,arts,allowed,Auditorium
+2795741,1,commerce,allowed,Auditorium
+2795742,2,commerce,allowed,Auditorium
+2795743,3,commerce,allowed,Auditorium
+2795747,1,science,allowed,Auditorium
+2795748,2,science,allowed,Auditorium
+2795749,3,science,allowed,Auditorium
+2795757,1,arts,allowed,Auditorium
+2795758,2,arts,allowed,Auditorium
+2795759,3,arts,allowed,Auditorium
+2795760,1,science,allowed,Auditorium
+2795761,2,science,allowed,Auditorium
+2795762,3,science,allowed,Auditorium
+2795799,1,physics,allowed,Medium room
+2795800,2,physics,allowed,Medium room
+2795801,3,physics,allowed,Medium room
+2795866,1,engineering,allowed,Medium room
+2795867,2,engineering,allowed,Medium room
+2795868,3,engineering,allowed,Medium room
+2795869,4,engineering,allowed,Medium room
+2795884,1,electronics and instrumentation,not allowed,not assigned
+2795885,2,electronics and instrumentation,not allowed,not assigned
+2795886,3,electronics and instrumentation,not allowed,not assigned
+2795887,4,electronics and instrumentation,not allowed,not assigned
+2795895,1,maths,allowed,Small room
+2795909,1,sanskrit,allowed,Small room
+2795922,1,architecture,not allowed,not assigned
+2795923,2,architecture,not allowed,not assigned
+2795928,1,english,allowed,Large room
+2795929,2,english,allowed,Large room
+2795930,1,physics,allowed,Medium room
+2795931,2,physics,allowed,Medium room
+2795932,3,physics,allowed,Medium room
+2795933,4,physics,allowed,Medium room
+2795934,5,physics,allowed,Medium room
+2795965,1,chemistry,allowed,Medium room
+2795966,2,chemistry,allowed,Medium room
+2796023,4,engineering,allowed,Medium room
+2796104,1,law,allowed,Medium room
+2796105,2,law,allowed,Medium room
+2796106,3,law,allowed,Medium room
+2790241,4,material science and engineering,not allowed,not assigned
+2790173,4,mathematics,allowed,Medium room
+2790186,4,chemistry,allowed,Medium room
+2790185,4,chemistry,allowed,Medium room
+2790242,4,material science and engineering,not allowed,not assigned
+2790218,4,civil and environmental engineering,not allowed,not assigned
+2790217,4,civil and environmental engineering,not allowed,not assigned
+2790174,4,mathematics,allowed,Medium room
+2796081,4,leather design,not allowed,not assigned
+2796080,3,leather design,not allowed,not assigned
+2796078,1,leather design,not allowed,not assigned
+2796079,2,leather design,not allowed,not assigned
+2796152,1,social studies,not allowed,not assigned
+2796258,1,mpcs,allowed,Small room
+2796259,2,mpcs,allowed,Small room
+2796260,3,mpcs,allowed,Small room
+2796261,1,res,not allowed,not assigned
+2796262,2,res,not allowed,not assigned
+2796263,3,res,not allowed,not assigned
+2796264,1,mpc,allowed,Small room
+2796265,2,mpc,allowed,Small room
+2796266,3,mpc,allowed,Small room
+2796300,1,arts,allowed,Auditorium
+2796301,2,arts,allowed,Auditorium
+2796302,3,arts,allowed,Auditorium
+2796357,1,bio-chemistry,allowed,Small room
+2796358,2,bio-chemistry,allowed,Small room
+2796359,3,bio-chemistry,allowed,Small room
+2796361,1,zoology,allowed,Medium room
+2796362,2,zoology,allowed,Medium room
+2796377,1,computer application,allowed,Medium room
+2796378,2,computer application,allowed,Medium room
+2796379,3,computer application,allowed,Medium room
+2796396,1,chemistry,allowed,Medium room
+2796397,1,chemistry,allowed,Medium room
+2796398,2,chemistry,allowed,Medium room
+2796399,2,chemistry,allowed,Medium room
+2796400,3,chemistry,allowed,Medium room
+2796401,3,chemistry,allowed,Medium room
+2796418,1,information technology,not allowed,not assigned
+2796419,2,information technology,allowed,Small room
+2796434,1,english,allowed,Large room
+2796435,1,english,allowed,Large room
+2796436,2,english,allowed,Large room
+2796437,2,english,allowed,Large room
+2796438,3,english,allowed,Large room
+2796439,3,english,allowed,Large room
+2796543,1,education,allowed,Large room
+2796567,1,coumputer science,allowed,Medium room
+2796568,2,coumputer science,allowed,Medium room
+2796569,3,coumputer science,allowed,Medium room
+2796570,4,coumputer science,allowed,Medium room
+2796580,2,nursing,allowed,Medium room
+2796584,4,nursing,allowed,Medium room
+2796579,1,nursing,allowed,Medium room
+2796583,3,nursing,allowed,Medium room
+2796582,2,nursing,allowed,Medium room
+2796581,1,nursing,allowed,Medium room
+2796606,1,mass relation,not allowed,not assigned
+2796607,2,mass relation,not allowed,not assigned
+2796610,1,em,not allowed,not assigned
+2796611,2,em,not allowed,not assigned
+2796612,3,em,not allowed,not assigned
+2796613,1,tm,not allowed,not assigned
+2796614,2,tm,not allowed,not assigned
+2796615,3,tm,not allowed,not assigned
+2796616,1,general,allowed,Medium room
+2796617,2,general,allowed,Medium room
+2796618,3,general,allowed,Medium room
+2796656,4,english,allowed,Large room
+2796663,1,economics,allowed,Medium room
+2796664,2,economics,allowed,Medium room
+2796679,1,political science,allowed,Small room
+2796680,2,political science,allowed,Small room
+2796686,1,refactoring,not allowed,not assigned
+2796687,2,refactoring,not allowed,not assigned
+2796688,3,refactoring,not allowed,not assigned
+2796689,4,refactoring,not allowed,not assigned
+2796702,1,computer science,allowed,Medium room
+2796703,2,computer science,allowed,Medium room
+2796704,3,computer science,allowed,Medium room
+2796756,1,education,allowed,Large room
+2796757,2,education,allowed,Large room
+2796769,1,management,allowed,Medium room
+2796770,2,management,allowed,Medium room
+2796771,3,management,allowed,Medium room
+2796772,1,music vocal,not allowed,not assigned
+2796773,2,music vocal,not allowed,not assigned
+2796774,3,music vocal,not allowed,not assigned
+2796783,1,political science,allowed,Small room
+2796784,2,political science,allowed,Small room
+2796785,3,political science,allowed,Small room
+2796786,1,computers (ug),not allowed,not assigned
+2796787,2,computers (ug),not allowed,not assigned
+2796788,3,computers (ug),not allowed,not assigned
+2796789,1,economics,allowed,Medium room
+2796790,2,economics,allowed,Medium room
+2796791,3,economics,allowed,Medium room
+2796800,1,hindi,allowed,Small room
+2796801,2,hindi,allowed,Small room
+2796802,3,hindi,allowed,Small room
+2796803,1,computer application,allowed,Medium room
+2796804,2,computer application,allowed,Medium room
+2796805,3,computer application,allowed,Medium room
+2796812,1,nursing,allowed,Medium room
+2796813,2,nursing,allowed,Medium room
+2796814,3,nursing,allowed,Medium room
+2796815,4,nursing,allowed,Medium room
